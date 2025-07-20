@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+passlib
+bcrypt
+python-jose
+
+
+# run command pip3 install -r requirements.txt to install all the packages

@@ -1,0 +1,11 @@
+"_id","department_id","department_name"
+1,1,Accounts
+2,2,Administration
+3,3,Engineering
+4,4,Human Resource
+5,5,Marketing
+6,6,Recruitment
+7,7,Sales
+8,8,SysAdmin
+9,9,Security
+10,10,Management

@@ -1,0 +1,41 @@
+Fstring is very helpful in printing
+txt1 = "My name is {fname}, I'm {age}".format(fname = "John", age = 36) this is same as f-string (abbreviation of f is foremat)
+use of 'in' keyword
+To find any radical of variable we just do like this num(this is variable) num **.5 so here we get square root.
+Map function: 
+Lamda function returns another function
+
+__cause__ is the cause of the exception - due to the given exception, 
+the current exception was raised. This is a direct link - X threw this exception, therefore Y has to throw this exception.
+
+__context__ on the other hand means that the current exception was raised while trying to handle another exception, 
+and defines the exception that was being handled at the time this one was raised. 
+This is so that you don't lose the fact that the other exceptions happened 
+(and hence were at this code to throw the exception) - the context. 
+X threw this exception, while handling it, Y was also thrown.
+
+__traceback__ shows you the stack - the various levels of functions that have been followed 
+to get to the current line of code. This allows you to pinpoint what caused the exception. 
+It is likely to be used (potentially in tandem with __context__) to find what caused a given bug.
+
+## difference between package and directory
+An interesting consequence of the package specification mechanism is that files that are part of the same package 
+can exist in different directories. The package name is the same for each class, but the path to each file might 
+start from a different directory in the class path
+Imp note:
+{{We can do typecasting using map. In the following example, we construct 4x3 matrix from the user input:
+
+for _ in range(4):
+    arr.append(list(map(int, input().rstrip().split())))
+print(arr)
+
+With an input from the user:
+
+1 2 3
+4 5 6
+7 8 9
+10 11 12
+
+We get a 4x3 integer array:
+
+[[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12]]}}

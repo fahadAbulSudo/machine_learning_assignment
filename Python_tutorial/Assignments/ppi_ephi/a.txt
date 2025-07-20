@@ -1,0 +1,14 @@
+from pymongo import MongoClient 
+client = MongoClient(\'mongodb://localhost:27017/\')
+db = client['hospital_database']
+patients_collection = db['Patient']
+male_patients = patients_collection.find({'gender': 'male'})
+hospital_ids = [patient['hospital_id']for patient in male_patients]
+
+hospitals_collection = db['Hospital']
+departments = hospitals_collection.find({'hospital_id': {'$in': hospital_ids}}, {'departments': 1})
+response = {'departments': []}
+for department in departments:
+    response['departments'].extend(department['departments'])
+client.close()
+response

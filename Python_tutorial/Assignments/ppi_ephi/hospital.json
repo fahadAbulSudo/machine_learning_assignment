@@ -1,0 +1,500 @@
+[
+  {
+    "_id": "9d019e40-de4e-424c-a05a-d91367199920",
+    "hospital_id": "HOSP00679",
+    "name": "Pediatrics",
+    "address": {
+      "street": "19346 Thomas Flat Apt. 667",
+      "city": "Curtisstad",
+      "state": "NY",
+      "zip_code": "78017",
+      "country": "United States"
+    },
+    "contact": {
+      "email": "crhodes@example.org",
+      "phone": "819-266-6288x741"
+    },
+    "departments": [
+      {
+        "department_id": "DEPT001",
+        "name": "Pediatrics",
+        "head_doctor": "Dr. Holmes",
+        "description": "Specializes in pediatrics-related issues."
+      },
+      {
+        "department_id": "DEPT002",
+        "name": "Oncology",
+        "head_doctor": "Dr. Rodriguez",
+        "description": "Specializes in oncology-related issues."
+      },
+      {
+        "department_id": "DEPT003",
+        "name": "Cardiology",
+        "head_doctor": "Dr. Gaines",
+        "description": "Specializes in cardiology-related issues."
+      },
+      {
+        "department_id": "DEPT004",
+        "name": "Cardiology",
+        "head_doctor": "Dr. Krueger",
+        "description": "Specializes in cardiology-related issues."
+      },
+      {
+        "department_id": "DEPT005",
+        "name": "Pediatrics",
+        "head_doctor": "Dr. Jones",
+        "description": "Specializes in pediatrics-related issues."
+      }
+    ],
+    "services": [
+      "Maternity",
+      "ENT"
+    ],
+    "rating": 2.7,
+    "capacity": {
+      "total_beds": 353,
+      "available_beds": 60,
+      "icu_beds": 60
+    }
+  },
+  {
+    "_id": "ded9230e-5108-44e5-b691-94ad9a5d5fe7",
+    "hospital_id": "HOSP00362",
+    "name": "Orthopedics",
+    "address": {
+      "street": "948 Cervantes Spur Suite 492",
+      "city": "Munozchester",
+      "state": "AR",
+      "zip_code": "34034",
+      "country": "United States"
+    },
+    "contact": {
+      "email": "carmen28@example.org",
+      "phone": "306-722-8247x119"
+    },
+    "departments": [
+      {
+        "department_id": "DEPT001",
+        "name": "Pediatrics",
+        "head_doctor": "Dr. Molina",
+        "description": "Specializes in pediatrics-related issues."
+      },
+      {
+        "department_id": "DEPT002",
+        "name": "Cardiology",
+        "head_doctor": "Dr. Williams",
+        "description": "Specializes in cardiology-related issues."
+      },
+      {
+        "department_id": "DEPT003",
+        "name": "Orthopedics",
+        "head_doctor": "Dr. Carr",
+        "description": "Specializes in orthopedics-related issues."
+      }
+    ],
+    "services": [
+      "ENT",
+      "Emergency Care",
+      "Maternity"
+    ],
+    "rating": 3.4,
+    "capacity": {
+      "total_beds": 245,
+      "available_beds": 241,
+      "icu_beds": 103
+    }
+  },
+  {
+    "_id": "ad68f643-37d1-49b4-8c23-da8c968a2ff5",
+    "hospital_id": "HOSP00513",
+    "name": "Orthopedics",
+    "address": {
+      "street": "4949 Weaver Inlet",
+      "city": "Mikechester",
+      "state": "SD",
+      "zip_code": "03190",
+      "country": "United States"
+    },
+    "contact": {
+      "email": "kayla74@example.net",
+      "phone": "323.464.3471"
+    },
+    "departments": [
+      {
+        "department_id": "DEPT001",
+        "name": "Neurology",
+        "head_doctor": "Dr. Hall",
+        "description": "Specializes in neurology-related issues."
+      },
+      {
+        "department_id": "DEPT002",
+        "name": "Pediatrics",
+        "head_doctor": "Dr. Reeves",
+        "description": "Specializes in pediatrics-related issues."
+      },
+      {
+        "department_id": "DEPT003",
+        "name": "Orthopedics",
+        "head_doctor": "Dr. Allen",
+        "description": "Specializes in orthopedics-related issues."
+      }
+    ],
+    "services": [
+      "Laboratory Services",
+      "ENT"
+    ],
+    "rating": 3.7,
+    "capacity": {
+      "total_beds": 306,
+      "available_beds": 265,
+      "icu_beds": 5
+    }
+  },
+  {
+    "_id": "0d5361e3-0678-4ec7-ab15-1db51e787e95",
+    "hospital_id": "HOSP00372",
+    "name": "Orthopedics",
+    "address": {
+      "street": "2990 Lee Square Apt. 925",
+      "city": "Port Natasha",
+      "state": "IN",
+      "zip_code": "57843",
+      "country": "United States"
+    },
+    "contact": {
+      "email": "margaretzimmerman@example.net",
+      "phone": "+1-450-300-4396x60170"
+    },
+    "departments": [
+      {
+        "department_id": "DEPT001",
+        "name": "Oncology",
+        "head_doctor": "Dr. Woods",
+        "description": "Specializes in oncology-related issues."
+      },
+      {
+        "department_id": "DEPT002",
+        "name": "Neurology",
+        "head_doctor": "Dr. Mcintyre",
+        "description": "Specializes in neurology-related issues."
+      },
+      {
+        "department_id": "DEPT003",
+        "name": "Orthopedics",
+        "head_doctor": "Dr. Cain",
+        "description": "Specializes in orthopedics-related issues."
+      },
+      {
+        "department_id": "DEPT004",
+        "name": "Orthopedics",
+        "head_doctor": "Dr. Terry",
+        "description": "Specializes in orthopedics-related issues."
+      }
+    ],
+    "services": [
+      "Laboratory Services",
+      "ENT"
+    ],
+    "rating": 3.1,
+    "capacity": {
+      "total_beds": 313,
+      "available_beds": 54,
+      "icu_beds": 29
+    }
+  },
+  {
+    "_id": "baffbee7-1800-46c6-a501-24f14165ca38",
+    "hospital_id": "HOSP00236",
+    "name": "Pediatrics",
+    "address": {
+      "street": "3434 Scott Mountains",
+      "city": "Bradleyside",
+      "state": "ME",
+      "zip_code": "45285",
+      "country": "United States"
+    },
+    "contact": {
+      "email": "shannonjones@example.net",
+      "phone": "001-408-860-5849x91997"
+    },
+    "departments": [
+      {
+        "department_id": "DEPT001",
+        "name": "Orthopedics",
+        "head_doctor": "Dr. Moran",
+        "description": "Specializes in orthopedics-related issues."
+      },
+      {
+        "department_id": "DEPT002",
+        "name": "Pediatrics",
+        "head_doctor": "Dr. Curtis",
+        "description": "Specializes in pediatrics-related issues."
+      }
+    ],
+    "services": [
+      "Maternity",
+      "Emergency Care"
+    ],
+    "rating": 4.1,
+    "capacity": {
+      "total_beds": 272,
+      "available_beds": 81,
+      "icu_beds": 81
+    }
+  },
+  {
+    "_id": "1fdad3b6-5742-462a-8a7b-210015e86d63",
+    "hospital_id": "HOSP00613",
+    "name": "Neurology",
+    "address": {
+      "street": "70802 Ruiz Stream",
+      "city": "North Josephstad",
+      "state": "HI",
+      "zip_code": "94998",
+      "country": "United States"
+    },
+    "contact": {
+      "email": "edwardsmegan@example.net",
+      "phone": "001-519-662-9080"
+    },
+    "departments": [
+      {
+        "department_id": "DEPT001",
+        "name": "Oncology",
+        "head_doctor": "Dr. Estrada",
+        "description": "Specializes in oncology-related issues."
+      },
+      {
+        "department_id": "DEPT002",
+        "name": "Neurology",
+        "head_doctor": "Dr. Thomas",
+        "description": "Specializes in neurology-related issues."
+      },
+      {
+        "department_id": "DEPT003",
+        "name": "Neurology",
+        "head_doctor": "Dr. Hansen",
+        "description": "Specializes in neurology-related issues."
+      }
+    ],
+    "services": [
+      "Emergency Care",
+      "Surgery",
+      "Laboratory Services",
+      "Radiology",
+      "Maternity"
+    ],
+    "rating": 3.5,
+    "capacity": {
+      "total_beds": 165,
+      "available_beds": 45,
+      "icu_beds": 33
+    }
+  },
+  {
+    "_id": "d03cc255-0c41-495d-8f92-e7c4f3fbc6fe",
+    "hospital_id": "HOSP00166",
+    "name": "Orthopedics",
+    "address": {
+      "street": "924 Tina Courts",
+      "city": "Fernandezland",
+      "state": "UT",
+      "zip_code": "79530",
+      "country": "United States"
+    },
+    "contact": {
+      "email": "stevenlopez@example.com",
+      "phone": "001-485-917-7002x88892"
+    },
+    "departments": [
+      {
+        "department_id": "DEPT001",
+        "name": "Oncology",
+        "head_doctor": "Dr. Lee",
+        "description": "Specializes in oncology-related issues."
+      },
+      {
+        "department_id": "DEPT002",
+        "name": "Cardiology",
+        "head_doctor": "Dr. Singleton",
+        "description": "Specializes in cardiology-related issues."
+      },
+      {
+        "department_id": "DEPT003",
+        "name": "Oncology",
+        "head_doctor": "Dr. Graham",
+        "description": "Specializes in oncology-related issues."
+      },
+      {
+        "department_id": "DEPT004",
+        "name": "Cardiology",
+        "head_doctor": "Dr. Moran",
+        "description": "Specializes in cardiology-related issues."
+      },
+      {
+        "department_id": "DEPT005",
+        "name": "Orthopedics",
+        "head_doctor": "Dr. Jackson",
+        "description": "Specializes in orthopedics-related issues."
+      }
+    ],
+    "services": [
+      "Emergency Care",
+      "Surgery",
+      "Radiology",
+      "Maternity",
+      "Laboratory Services"
+    ],
+    "rating": 3.6,
+    "capacity": {
+      "total_beds": 141,
+      "available_beds": 125,
+      "icu_beds": 71
+    }
+  },
+  {
+    "_id": "7efecc00-f820-44b4-979a-c6ea783cd47f",
+    "hospital_id": "HOSP00567",
+    "name": "Oncology",
+    "address": {
+      "street": "5007 Kevin Ways Apt. 769",
+      "city": "Port Kimberlyshire",
+      "state": "MI",
+      "zip_code": "79819",
+      "country": "United States"
+    },
+    "contact": {
+      "email": "clarkkayla@example.com",
+      "phone": "9432363985"
+    },
+    "departments": [
+      {
+        "department_id": "DEPT001",
+        "name": "Cardiology",
+        "head_doctor": "Dr. Novak",
+        "description": "Specializes in cardiology-related issues."
+      },
+      {
+        "department_id": "DEPT002",
+        "name": "Oncology",
+        "head_doctor": "Dr. Baker",
+        "description": "Specializes in oncology-related issues."
+      }
+    ],
+    "services": [
+      "ENT",
+      "Maternity",
+      "Surgery",
+      "Emergency Care",
+      "Radiology"
+    ],
+    "rating": 3.4,
+    "capacity": {
+      "total_beds": 463,
+      "available_beds": 315,
+      "icu_beds": 256
+    }
+  },
+  {
+    "_id": "4a542a9e-546d-4d40-815d-dd8c1dca20e2",
+    "hospital_id": "HOSP00478",
+    "name": "Cardiology",
+    "address": {
+      "street": "068 Benjamin Hill",
+      "city": "Velezborough",
+      "state": "IA",
+      "zip_code": "57389",
+      "country": "United States"
+    },
+    "contact": {
+      "email": "saundersjessica@example.org",
+      "phone": "811-366-0155"
+    },
+    "departments": [
+      {
+        "department_id": "DEPT001",
+        "name": "Pediatrics",
+        "head_doctor": "Dr. Moore",
+        "description": "Specializes in pediatrics-related issues."
+      },
+      {
+        "department_id": "DEPT002",
+        "name": "Cardiology",
+        "head_doctor": "Dr. Lopez",
+        "description": "Specializes in cardiology-related issues."
+      },
+      {
+        "department_id": "DEPT003",
+        "name": "Pediatrics",
+        "head_doctor": "Dr. Dunn",
+        "description": "Specializes in pediatrics-related issues."
+      },
+      {
+        "department_id": "DEPT004",
+        "name": "Orthopedics",
+        "head_doctor": "Dr. Leonard",
+        "description": "Specializes in orthopedics-related issues."
+      },
+      {
+        "department_id": "DEPT005",
+        "name": "Cardiology",
+        "head_doctor": "Dr. Blake",
+        "description": "Specializes in cardiology-related issues."
+      }
+    ],
+    "services": [
+      "ENT",
+      "Surgery",
+      "Laboratory Services",
+      "Maternity",
+      "Emergency Care"
+    ],
+    "rating": 2.6,
+    "capacity": {
+      "total_beds": 389,
+      "available_beds": 144,
+      "icu_beds": 66
+    }
+  },
+  {
+    "_id": "a7cc26c9-32bf-44c8-beb9-cf677b17ec30",
+    "hospital_id": "HOSP00973",
+    "name": "Pediatrics",
+    "address": {
+      "street": "2780 Frederick Lights",
+      "city": "North Davidburgh",
+      "state": "AZ",
+      "zip_code": "14571",
+      "country": "United States"
+    },
+    "contact": {
+      "email": "david66@example.org",
+      "phone": "001-724-492-5989"
+    },
+    "departments": [
+      {
+        "department_id": "DEPT001",
+        "name": "Cardiology",
+        "head_doctor": "Dr. Taylor",
+        "description": "Specializes in cardiology-related issues."
+      },
+      {
+        "department_id": "DEPT002",
+        "name": "Pediatrics",
+        "head_doctor": "Dr. Bass",
+        "description": "Specializes in pediatrics-related issues."
+      }
+    ],
+    "services": [
+      "Maternity",
+      "Laboratory Services",
+      "Radiology"
+    ],
+    "rating": 2.9,
+    "capacity": {
+      "total_beds": 240,
+      "available_beds": 237,
+      "icu_beds": 226
+    }
+  }
+]

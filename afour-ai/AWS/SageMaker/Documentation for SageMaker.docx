@@ -1,0 +1,92 @@
+Features of Sagemaker:
+
+Feature engineering - Data wrangler
+standard, normalization and other
+Balanced Data set, to get balanced accuracy.
+Check correlation
+Model improves over time.
+CI/CD pipeline
+provides custom algo, custom time-series algos
+for hyper-parameter tuning bayesian is used
+
+
+Preprocessing was done by a human(Thankfully) and was stored to S3 bucket.
+Data is then read from S3 bucket
+Data is stored, read and retrieved via S3 bucket
+IAM is used to specify permissions to which buckets which user can access.
+trained models are stored with separate folders named used timestamp at which the model was created.
+training data needs to have the target at 0th index followed by the remaining training data.
+
+
+Notes:
+	we recommend that you create the notebook in Amazon SageMaker Studio instead of launching a notebook instance from the Amazon SageMaker console.
+	You can have only one instance of each instance type. Each instance can have multiple SageMaker images running on it. Each SageMaker image can run multiple kernels or terminal instances.
+	no kernel no charges incurred.
+	billed per instance and endpoints.
+	Basic feature importance and cleaning has to done on our end, missing data, standard, normalise, imputer, PCA are done via AWS
+	If missing data is too much then AWS autopilot will not help.
+	Data headers are needed.
+
+Aws sagemaker clarify:
+	Visualise bias's in your dataset.
+	Correlation between independent cols on dependent cols.
+	Getting some metrics to visualise bias
+
+SageMaker Training Compiler:
+	free to use and speeds ups modelling time by opitmizing at hardware levels(internal)
+	SageMaker Studio Universal Notebook:
+	Easily discover, connect to, create, terminate and manage Amazon EMR clusters in single account and cross account configurations directly from SageMaker Studio.
+
+SageMaker Serverless Endpoints:
+	A serverless endpoint option for hosting your ML model. Automatically scales in capacity to serve your endpoint traffic. Removes the need to select instance types or manage scaling policies on an endpoint.
+
+SageMaker Model Registry
+	Versioning, artifact and lineage tracking, approval workflow, and cross account support for deployment of your machine learning models.
+
+SageMaker Pipelines Overview
+	An Amazon SageMaker Model Building Pipelines pipeline is a series of interconnected steps that is defined by a JSON pipeline definition. This pipeline definition encodes a pipeline using a directed acyclic graph (DAG). This DAG gives information on the requirements for and relationships between each step of your pipeline. The structure of a pipeline's DAG is determined by the data dependencies between steps. These data dependencies are created when the properties of a step's output are passed as the input to another step. The following image is an example of a pipeline DAG.
+
+	Aws provides pre defined templates for creating pipelines, we get two git hub repos one for preprocess and building the models and the other for deployment. We can edit the preprocessing scripts if we want to apply different steps for preprocessing for the given data.
+
+
+Amazon SageMaker ML Lineage Tracking
+	Amazon SageMaker ML Lineage Tracking creates and stores information about the steps of a machine learning (ML) workflow from data preparation to model deployment. With the tracking information, you can reproduce the workflow steps, track model and dataset lineage, and establish model governance and audit standards.
+
+AWS Sagemaker feature store:
+	Online – In online mode, features are read with low latency (milliseconds) reads and used for high throughput predictions. This mode requires a feature group to be stored in an online store. 
+
+	Offline – In offline mode, large streams of data are fed to an offline store, which can be used for training and batch inference. This mode requires a feature group to be stored in an offline store. The offline store uses your S3 bucket for storage and can also fetch data using Athena queries. 
+
+	Online and Offline – This includes both online and offline modes, offline is used for model training and inference, online is used for actual deployment use case
+
+Amazon Augmented AI: (Code)
+	Build the workflows required for human review of ML predictions. Amazon A2I brings human review to all developers, removing the undifferentiated heavy lifting associated with building human review systems or managing large numbers of human reviewers.
+
+Amazon SageMaker Experiments:
+	SageMaker Experiments automatically tracks the inputs, parameters, configurations, and results of your iterations as trials. You can assign, group, and organize these trials into experiments. SageMaker Experiments is integrated with Amazon SageMaker Studio providing a visual interface to browse your active and past experiments, compare trials on key performance metrics, and identify the best performing models.
+
+SageMaker Debugger
+	Inspect training parameters and data throughout the training process. Automatically detect and alert users to commonly occurring errors such as parameter values getting too large or small.
+
+SageMaker Model Monitor:
+	Make sure inference data is correct as in the same distrubution as training data, applies rules and helps in visulization of the errors found.
+
+SageMaker Neo
+	Train machine learning models once, then run anywhere in the cloud and at the edge. Optimise models and return low level code which can run hardware independent in the most optimised fashion. 
+
+
+Steps to follow
+=>Go to sagemaker 
+=>open notebook instance and set IAM role. 
+=>select kernel 
+=>Load data from S3 
+=>Choose algo and fit model 
+=>Deploy for inference testing 
+=>Do inference testing 
+=>Cleanup 
+=>Double check with S3 and endpoint config that resources are deleted
+
+
+Links:
+Good video for reference AWS SageMaker: https://www.youtube.com/watch?v=Ra4pDxbIK2M
+AWS Sagermaker overview: https://towardsdatascience.com/aws-sagemaker-db5451e02a79

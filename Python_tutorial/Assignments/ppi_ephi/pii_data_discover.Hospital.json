@@ -1,0 +1,202 @@
+[{
+  "_id": {
+    "$oid": "64c0c15fd3727c5d0c88e470"
+  },
+  "hospital_id": "HOSP00362",
+  "name": "Orthopedics",
+  "address": {
+    "street": "948 Cervantes Spur Suite 492",
+    "city": "Munozchester",
+    "state": "AR",
+    "zip_code": "34034",
+    "country": "United States"
+  },
+  "contact": {
+    "email": "carmen28@example.org",
+    "phone": "306-722-8247x119"
+  },
+  "services": [
+    "ENT",
+    "Emergency Care",
+    "Maternity"
+  ],
+  "rating": 3.4,
+  "capacity": {
+    "total_beds": 245,
+    "available_beds": 241,
+    "icu_beds": 103
+  },
+  "departments": [
+    {
+      "department_id": "DEPT001",
+      "name": "Pediatrics",
+      "head_doctor": "Dr. Holmes",
+      "description": "Specializes in pediatrics-related issues."
+    },
+    {
+      "department_id": "DEPT002",
+      "name": "Oncology",
+      "head_doctor": "Dr. Rodriguez",
+      "description": "Specializes in oncology-related issues."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64c0c287d3727c5d0c88e471"
+  },
+  "hospital_id": "HOSP00513",
+  "name": "Orthopedics",
+  "address": {
+    "street": "4949 Weaver Inlet",
+    "city": "Mikechester",
+    "state": "SD",
+    "zip_code": "03190",
+    "country": "United States"
+  },
+  "contact": {
+    "email": "kayla74@example.net",
+    "phone": "323.464.3471"
+  },
+  "departments": [
+    {
+      "department_id": "DEPT001",
+      "name": "Pediatrics",
+      "head_doctor": "Dr. Molina",
+      "description": "Specializes in pediatrics-related issues."
+    },
+    {
+      "department_id": "DEPT002",
+      "name": "Cardiology",
+      "head_doctor": "Dr. Williams",
+      "description": "Specializes in cardiology-related issues."
+    }
+  ],
+  "services": [
+    "Laboratory Services",
+    "ENT"
+  ],
+  "rating": 3.7,
+  "capacity": {
+    "total_beds": 306,
+    "available_beds": 265,
+    "icu_beds": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "64c0c31ad3727c5d0c88e472"
+  },
+  "hospital_id": "HOSP00372",
+  "name": "Orthopedics",
+  "address": {
+    "street": "2990 Lee Square Apt. 925",
+    "city": "Port Natasha",
+    "state": "IN",
+    "zip_code": "57843",
+    "country": "United States"
+  },
+  "contact": {
+    "email": "margaretzimmerman@example.net",
+    "phone": "+1-450-300-4396x60170"
+  },
+  "departments": [
+    {
+      "department_id": "DEPT001",
+      "name": "Neurology",
+      "head_doctor": "Dr. Hall",
+      "description": "Specializes in neurology-related issues."
+    }
+  ],
+  "services": [
+    "Laboratory Services",
+    "ENT"
+  ],
+  "rating": 3.1,
+  "capacity": {
+    "total_beds": 313,
+    "available_beds": 54,
+    "icu_beds": 29
+  }
+},
+{
+  "_id": {
+    "$oid": "64c0c3a2d3727c5d0c88e473"
+  },
+  "hospital_id": "HOSP00236",
+  "name": "Pediatrics",
+  "address": {
+    "street": "3434 Scott Mountains",
+    "city": "Bradleyside",
+    "state": "ME",
+    "zip_code": "45285",
+    "country": "United States"
+  },
+  "contact": {
+    "email": "shannonjones@example.net",
+    "phone": "001-408-860-5849x91997"
+  },
+  "services": [
+    "Maternity",
+    "Emergency Care"
+  ],
+  "rating": 4.1,
+  "capacity": {
+    "total_beds": 272,
+    "available_beds": 81,
+    "icu_beds": 81
+  },
+  "departments": [
+    {
+      "department_id": "DEPT001",
+      "name": "Oncology",
+      "head_doctor": "Dr. Woods",
+      "description": "Specializes in oncology-related issues."
+    },
+    {
+      "department_id": "DEPT002",
+      "name": "Neurology",
+      "head_doctor": "Dr. Mcintyre",
+      "description": "Specializes in neurology-related issues."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64c0c410d3727c5d0c88e474"
+  },
+  "hospital_id": "HOSP00613",
+  "name": "Neurology",
+  "address": {
+    "street": "70802 Ruiz Stream",
+    "city": "North Josephstad",
+    "state": "HI",
+    "zip_code": "94998",
+    "country": "United States"
+  },
+  "contact": {
+    "email": "edwardsmegan@example.net",
+    "phone": "001-519-662-9080"
+  },
+  "departments": [
+    {
+      "department_id": "DEPT001",
+      "name": "Orthopedics",
+      "head_doctor": "Dr. Cain",
+      "description": "Specializes in orthopedics-related issues."
+    }
+  ],
+  "services": [
+    "Emergency Care",
+    "Surgery",
+    "Laboratory Services",
+    "Radiology",
+    "Maternity"
+  ],
+  "rating": 3.5,
+  "capacity": {
+    "total_beds": 165,
+    "available_beds": 45,
+    "icu_beds": 33
+  }
+}]

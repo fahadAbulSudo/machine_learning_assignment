@@ -1,0 +1,54 @@
+https://butzcvi9hc.execute-api.ap-south-1.amazonaws.com/dev/recommendation/internalCV
+
+Input:
+
+    {
+    "musthave": [
+        "List of string"
+    ],
+    "goodhave": [
+        "List of string"
+    ],
+    "exp": float
+    }
+Output:It is a list of json
+    [
+        {
+        "Name": "string",
+        "Role": "string",
+        "Experience": float,
+        "File": "string",
+        "Priority": "string",
+        "id": integer
+        }
+    ]
+
+https://butzcvi9hc.execute-api.ap-south-1.amazonaws.com/dev/recommendation/similar
+
+Input:
+
+    {
+    "musthave": [
+        "List of string"
+    ],
+    "goodhave": [
+        "List of string"
+    ],
+    "exp":float,
+    "id": [
+        List of integer
+    ]
+    }
+
+Output:It is a list of json
+    [
+        {
+        "Name": "string",
+        "Role": "string",
+        "Experience": float,
+        "File": "string",
+        "Priority": "string",
+        "id": integer
+        }
+    ]
+https://butzcvi9hc.execute-api.ap-south-1.amazonaws.com/dev

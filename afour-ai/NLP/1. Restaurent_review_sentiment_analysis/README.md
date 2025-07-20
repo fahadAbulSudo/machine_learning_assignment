@@ -1,0 +1,2 @@
+**Description**
+The dataset is consist of the reviews given by the users and a label column indicating whether the review is positive(1) or negative(0). We apply countvectorizer to convert the textual data into numerical one. Once that is done, we apply various algorithm and compare their accuracies regarding whether the prediction about the given sentence to be positive sentiment or negative sentiment, is correct or not.

@@ -1,0 +1,950 @@
+_id,status,sub_technology,technology,tool,work_type
+14,ACTIVE,AWS,Java,Mobile Services,Coding & Development
+15,ACTIVE,PaaS,Java,CloudFoundry,Coding & Development
+16,ACTIVE,PaaS,Java,IBM Bluemix,Coding & Development
+17,ACTIVE,DB2,Mainframe,DB2-DBA,Coding & Development
+18,ACTIVE,Oracle_Apps DBA,Oracle,,Coding & Development
+19,ACTIVE,Oracle_Apps Delivery Manager,Oracle,,Coding & Development
+20,ACTIVE,Oracle_Apps Program Manager,Oracle,,Coding & Development
+21,ACTIVE,Oracle_Apps Project Manager,Oracle,,Coding & Development
+22,ACTIVE,Oracle_Apps Technical,Oracle,Oracle_Apps Technical_ADF,Coding & Development
+23,ACTIVE,Oracle_Apps Technical,Oracle,Oracle_Apps Technical_OAF,Coding & Development
+24,ACTIVE,Oracle_Apps Technical,Oracle,Oracle_Apps_Forms_Reports,Coding & Development
+25,ACTIVE,Oracle_Apps Technical,Oracle,Oracle_Apps_Technical_MSCA,Coding & Development
+26,ACTIVE,Oracle_CRM Cloud,Oracle,Oracle_CRM Fusion_RightNow Service,Coding & Development
+27,ACTIVE,Oracle_CRM Cloud,Oracle,Oracle_CRM Fusion_Sales,Coding & Development
+28,ACTIVE,Oracle_CRM Cloud,Oracle,Oracle_CRM Fusion_TOA_Field Service,Coding & Development
+29,ACTIVE,Oracle_CRM Cloud,Oracle,Oracle_CRM Marketing_BlueKai,Coding & Development
+30,ACTIVE,Oracle_CRM Cloud,Oracle,Oracle_CRM Marketing_Compendium,Coding & Development
+31,ACTIVE,Oracle_CRM Cloud,Oracle,Oracle_CRM Marketing_Eloqua,Coding & Development
+32,ACTIVE,Oracle_CRM Cloud,Oracle,Oracle_CRM Marketing_Responsys,Coding & Development
+33,ACTIVE,Oracle_CRM Service,Oracle,Oracle_CRM Service_DepotRepair,Coding & Development
+34,ACTIVE,Oracle_CRM Service,Oracle,Oracle_CRM Service_Field Service,Coding & Development
+35,ACTIVE,Oracle_CRM Service,Oracle,Oracle_CRM Service_Install Base,Coding & Development
+36,ACTIVE,Oracle_CRM Service,Oracle,Oracle_CRM_TeleService,Coding & Development
+37,ACTIVE,Oracle_Financials,Oracle,Oracle_Financials_Accounts Payable,Coding & Development
+38,ACTIVE,Oracle_Financials,Oracle,Oracle_Financials_Accounts Receivable,Coding & Development
+39,ACTIVE,Oracle_Financials,Oracle,Oracle_Financials_Cash Management,Coding & Development
+40,ACTIVE,Oracle_Financials,Oracle,Oracle_Financials_Fixed Assets,Coding & Development
+41,ACTIVE,Oracle_Financials,Oracle,Oracle_Financials_General Ledger,Coding & Development
+42,ACTIVE,Oracle_Financials Cloud,Oracle,Oracle_Financials Cloud_Accounts Payable,Coding & Development
+43,ACTIVE,Oracle_Financials Cloud,Oracle,Oracle_Financials Cloud_Accounts Receivable,Coding & Development
+44,ACTIVE,Oracle_Financials Cloud,Oracle,Oracle_Financials Cloud_Cash Management,Coding & Development
+45,ACTIVE,Oracle_Financials Cloud,Oracle,Oracle_Financials Cloud_Fixed Assets,Coding & Development
+46,ACTIVE,Oracle_Financials Cloud,Oracle,Oracle_Financials Cloud_General Ledger,Coding & Development
+47,ACTIVE,Oracle_Fusion Technical,Oracle,Oracle_Fusion_Java,Coding & Development
+48,ACTIVE,Oracle_Fusion Technical,Oracle,Oracle_Fusion_Technical,Coding & Development
+49,ACTIVE,Oracle_Global Trade Management,Oracle,,Coding & Development
+50,ACTIVE,Oracle_HCM,Oracle,Oracle_HCM_Advanced Benefits,Coding & Development
+51,ACTIVE,Oracle_HCM,Oracle,Oracle_HCM_Compensation Workbench,Coding & Development
+52,ACTIVE,Oracle_HCM,Oracle,Oracle_HCM_Core HR,Coding & Development
+53,ACTIVE,Oracle_HCM,Oracle,Oracle_HCM_IRecruitment,Coding & Development
+54,ACTIVE,Oracle_HCM,Oracle,Oracle_HCM_OTL,Coding & Development
+55,ACTIVE,Oracle_HCM,Oracle,Oracle_HCM_Payroll,Coding & Development
+56,ACTIVE,Oracle_HCM,Oracle,Oracle_HCM_Performance Management,Coding & Development
+57,ACTIVE,Oracle_HCM,Oracle,Oracle_HCM_SSHR,Coding & Development
+58,ACTIVE,Oracle_HCM_Cloud,Oracle,Oracle_HCM Cloud_Benefits,Coding & Development
+59,ACTIVE,Oracle_HCM_Cloud,Oracle,Oracle_HCM Cloud_Global HR,Coding & Development
+60,ACTIVE,Oracle_HCM_Cloud,Oracle,Oracle_HCM Cloud_Payroll,Coding & Development
+61,ACTIVE,Oracle_HCM_Cloud,Oracle,Oracle_HCM Cloud_Talent Management,Coding & Development
+62,ACTIVE,Oracle_HCM_Cloud,Oracle,Oracle_HCM Cloud_Time and Labor,Coding & Development
+63,ACTIVE,Oracle_HCM_Cloud,Oracle,Oracle_HCM Cloud_Workforce Compensation,Coding & Development
+64,ACTIVE,Oracle_HCM_Cloud,Oracle,Oracle_Taleo Recruitment & Onboarding,Coding & Development
+65,ACTIVE,Oracle_HCM_Cloud,Oracle,Oracle_Taleo_Learn,Coding & Development
+66,ACTIVE,Oracle_Hyperion_EPM,Oracle,Oracle_Hyperion_DRM,Coding & Development
+67,ACTIVE,Oracle_Hyperion_EPM,Oracle,Oracle_Hyperion_HFM,Coding & Development
+68,ACTIVE,Oracle_Hyperion_EPM,Oracle,Oracle_Hyperion_HPCM,Coding & Development
+69,ACTIVE,Oracle_Hyperion_EPM,Oracle,Oracle_Hyperion_Planning and Budgeting,Coding & Development
+70,ACTIVE,Oracle_PL/SQL,Oracle,Oracle_PL/SQL_Database,Coding & Development
+71,ACTIVE,Oracle_PL/SQL,Oracle,Oracle_PL/SQL_Forms,Coding & Development
+72,ACTIVE,Oracle_PL/SQL,Oracle,Oracle_PL/SQL_Forms Database,Coding & Development
+73,ACTIVE,Oracle_PL/SQL,Oracle,Oracle_PL/SQL_Forms_Reports,Coding & Development
+74,ACTIVE,Oracle_PL/SQL,Oracle,Oracle_PL/SQL_Forms_Reports_Database,Coding & Development
+75,ACTIVE,Oracle_Portal,Oracle,,Coding & Development
+76,ACTIVE,Oracle_POS,Oracle,,Coding & Development
+77,ACTIVE,Oracle_Projects,Oracle,Oracle_Projects_Billing,Coding & Development
+78,ACTIVE,Oracle_Projects,Oracle,Oracle_Projects_Costing,Coding & Development
+79,ACTIVE,Oracle_Projects,Oracle,Oracle_Projects_Project Management,Coding & Development
+80,ACTIVE,Oracle_Projects Fusion,Oracle,Oracle_Projects_Fusion_Financials_Management,Coding & Development
+81,ACTIVE,Oracle_Projects Fusion,Oracle,Oracle_Projects_Fusion_Project Management,Coding & Development
+82,ACTIVE,Oracle_Retail,Oracle,Oracle_Retail_Merchandising Systems,Coding & Development
+83,ACTIVE,Oracle_Retail,Oracle,Oracle_Retail_Pricing System,Coding & Development
+84,ACTIVE,Oracle_Retail,Oracle,Oracle_Retail_Store_Management,Coding & Development
+85,ACTIVE,Oracle_SCM,Oracle,Oracle_SCM_Costing,Coding & Development
+86,ACTIVE,Oracle_SCM,Oracle,Oracle_SCM_Inventory,Coding & Development
+87,ACTIVE,Oracle_SCM,Oracle,Oracle_SCM_iProcurement,Coding & Development
+88,ACTIVE,Oracle_SCM,Oracle,Oracle_SCM_iStore,Coding & Development
+89,ACTIVE,Oracle_SCM,Oracle,Oracle_SCM_Manufacturing,Coding & Development
+90,ACTIVE,Oracle_SCM,Oracle,Oracle_SCM_OM,Coding & Development
+91,ACTIVE,Oracle_SCM,Oracle,Oracle_SCM_Purchasing,Coding & Development
+92,ACTIVE,Oracle_SCM Fusion,Oracle,Oracle_SCM Fusion_Inventory,Coding & Development
+93,ACTIVE,Oracle_SCM Fusion,Oracle,Oracle_SCM Fusion_Manufacturing,Coding & Development
+94,ACTIVE,Oracle_SCM Fusion,Oracle,Oracle_SCM Fusion_OM,Coding & Development
+95,ACTIVE,Oracle_SCM Fusion,Oracle,Oracle_SCM Fusion_Procurement,Coding & Development
+96,ACTIVE,Oracle_SCP,Oracle,Oracle_SCP_ASCP,Coding & Development
+97,ACTIVE,Oracle_SCP,Oracle,Oracle_SCP_Demantra,Coding & Development
+98,ACTIVE,Oracle_Transporation Management,Oracle,Oracle_OTM_Carrier Sourcing,Coding & Development
+99,ACTIVE,Oracle_Transporation Management,Oracle,Oracle_OTM_Fleet Management,Coding & Development
+100,ACTIVE,Oracle_Transporation Management,Oracle,Oracle_OTM_Freight Payment & Billing,Coding & Development
+101,ACTIVE,Oracle_Transporation Management,Oracle,Oracle_OTM_Transportation Intelligence,Coding & Development
+102,ACTIVE,Oracle_WMS,Oracle,Oracle_Apps_MSCA,Coding & Development
+103,ACTIVE,Oracle_WMS,Oracle,Oracle_Apps_WMS,Coding & Development
+104,ACTIVE,Oracle_WMS,Oracle,Oracle_Apps_Yard Management,Coding & Development
+105,ACTIVE,PeopleSoft_HCM,Oracle,PeopleSoft_HCM,Coding & Development
+106,ACTIVE,BPCS,SAP,,Coding & Development
+107,ACTIVE,SAP_ABAP,SAP,SAP_ABAP_Adode Forms,Coding & Development
+108,ACTIVE,SAP_ABAP,SAP,SAP_ABAP_BI,Coding & Development
+109,ACTIVE,SAP_ABAP,SAP,SAP_ABAP_CRM,Coding & Development
+110,ACTIVE,SAP_ABAP,SAP,SAP_ABAP_HR,Coding & Development
+111,ACTIVE,SAP_ABAP,SAP,SAP_ABAP_Webdynpro,Coding & Development
+112,ACTIVE,SAP_ABAP,SAP,SAP_ABAP_Workflow,Coding & Development
+113,ACTIVE,SAP_ABAP,SAP,SAP_OOPS,Coding & Development
+114,ACTIVE,SAP_ABAP,SAP,"SAP_SCM (APO, MM, PP)",Coding & Development
+115,ACTIVE,SAP_AFS,SAP,,Coding & Development
+116,ACTIVE,SAP_APO,SAP,SAP_APO_CIF,Coding & Development
+117,ACTIVE,SAP_APO,SAP,SAP_APO_DP,Coding & Development
+118,ACTIVE,SAP_APO,SAP,SAP_APO_GATP,Coding & Development
+119,ACTIVE,SAP_APO,SAP,SAP_APO_PP,Coding & Development
+120,ACTIVE,SAP_APO,SAP,SAP_APO_PPDS,Coding & Development
+121,ACTIVE,SAP_APO,SAP,SAP_APO_SNC,Coding & Development
+122,ACTIVE,SAP_APO,SAP,SAP_APO_SNP,Coding & Development
+123,ACTIVE,SAP_APO,SAP,SAP_APO_TM,Coding & Development
+124,ACTIVE,SAP_APO,SAP,SAP_APO_TPVS,Coding & Development
+125,ACTIVE,SAP_BASIS,SAP,SAP_ GRC,Coding & Development
+126,ACTIVE,SAP_BASIS,SAP,SAP_ Upgrade,Coding & Development
+127,ACTIVE,SAP_BASIS,SAP,SAP_Solman,Coding & Development
+128,ACTIVE,SAP_BCS,SAP,,Coding & Development
+129,ACTIVE,SAP_BPC,SAP,,Coding & Development
+130,ACTIVE,SAP_Business Analyst,SAP,,Coding & Development
+131,ACTIVE,SAP_BW,SAP,SAP ABAP,Coding & Development
+132,ACTIVE,SAP_BW,SAP,SAP BOBJ,Coding & Development
+133,ACTIVE,SAP_BW,SAP,SAP_ BW_CRM,Coding & Development
+134,ACTIVE,SAP_BW,SAP,SAP_BPC,Coding & Development
+135,ACTIVE,SAP_BW,SAP,SAP_BW,Coding & Development
+136,ACTIVE,SAP_BW,SAP,SAP_BW_ABAP,Coding & Development
+137,ACTIVE,SAP_BW,SAP,SAP_BW_APO,Coding & Development
+138,ACTIVE,SAP_BW,SAP,SAP_BW_COPA,Coding & Development
+139,ACTIVE,SAP_BW,SAP,SAP_BW_FI,Coding & Development
+140,ACTIVE,SAP_BW,SAP,SAP_BW_HANA,Coding & Development
+141,ACTIVE,SAP_BW,SAP,SAP_BW_HR,Coding & Development
+142,ACTIVE,SAP_BW,SAP,SAP_BW_IP,Coding & Development
+143,ACTIVE,SAP_BW,SAP,SAP_BW_LO,Coding & Development
+144,ACTIVE,SAP_CO,SAP,SAP_CO,Coding & Development
+145,ACTIVE,SAP_CO,SAP,SAP_CO_ABC,Coding & Development
+146,ACTIVE,SAP_CO,SAP,SAP_CO_COPA,Coding & Development
+147,ACTIVE,SAP_CO,SAP,SAP_CO_Material Ledger,Coding & Development
+148,ACTIVE,SAP_CO,SAP,SAP_CO_Product Costing,Coding & Development
+149,ACTIVE,SAP_CRM,SAP,SAP_C4C,Coding & Development
+150,ACTIVE,SAP_CRM,SAP,SAP_C4S,Coding & Development
+151,ACTIVE,SAP_CRM,SAP,SAP_CRM,Coding & Development
+152,ACTIVE,SAP_CRM,SAP,SAP_CRM Service,Coding & Development
+153,ACTIVE,SAP_CRM,SAP,SAP_CRM_Channel Management,Coding & Development
+154,ACTIVE,SAP_CRM,SAP,SAP_CRM_CIC,Coding & Development
+155,ACTIVE,SAP_CRM,SAP,SAP_CRM_Loyalty Management,Coding & Development
+156,ACTIVE,SAP_CRM,SAP,SAP_CRM_Marketing,Coding & Development
+157,ACTIVE,SAP_CRM,SAP,SAP_CRM_Middle Ware,Coding & Development
+158,ACTIVE,SAP_CRM,SAP,SAP_CRM_Mobility,Coding & Development
+159,ACTIVE,SAP_CRM,SAP,SAP_CRM_Sales,Coding & Development
+160,ACTIVE,SAP_CRM,SAP,SAP_CRM_Service,Coding & Development
+161,ACTIVE,SAP_CRM,SAP,SAP_CRM_TPM,Coding & Development
+162,ACTIVE,SAP_CRM,SAP,SAP_CRM_Web Channel,Coding & Development
+163,ACTIVE,SAP_CRM,SAP,SAP_Hybris Marketing,Coding & Development
+164,ACTIVE,SAP_CRM_HANA,SAP,SAP_HANA SLT(hybris marketing),Coding & Development
+165,ACTIVE,SAP_CRM_HANA,SAP,SAP_HCI (Hana Cloud Integration),Coding & Development
+167,ACTIVE,SAP_FI,SAP,SAP_FI,Coding & Development
+168,ACTIVE,SAP_FI,SAP,SAP_FI_FSCM,Coding & Development
+169,ACTIVE,SAP_FI,SAP,SAP_FI_IM,Coding & Development
+170,ACTIVE,SAP_FI,SAP,SAP_FI_New GL,Coding & Development
+171,ACTIVE,SAP_FIORI,SAP,,Coding & Development
+172,ACTIVE,SAP_HANA,SAP,Admin/SLT,Coding & Development
+173,ACTIVE,SAP_HANA,SAP,Modelling,Coding & Development
+174,ACTIVE,SAP_HANA,SAP,Native HANA,Coding & Development
+175,ACTIVE,SAP_HANA,SAP,SAP BOBJ,Coding & Development
+176,ACTIVE,SAP_HANA,SAP,SAP BPC,Coding & Development
+177,ACTIVE,SAP_HANA,SAP,SAP IP,Coding & Development
+178,ACTIVE,SAP_HCM,SAP,SAP_HCM,Coding & Development
+179,ACTIVE,SAP_HCM,SAP,SAP_HCM_CSP,Coding & Development
+180,ACTIVE,SAP_HCM,SAP,SAP_HCM_ECM,Coding & Development
+181,ACTIVE,SAP_HCM,SAP,SAP_HCM_EREC,Coding & Development
+182,ACTIVE,SAP_HCM,SAP,SAP_HCM_ESS/MSS,Coding & Development
+183,ACTIVE,SAP_HCM,SAP,SAP_HCM_LSO,Coding & Development
+184,ACTIVE,SAP_HCM,SAP,SAP_HCM_OM,Coding & Development
+185,ACTIVE,SAP_HCM,SAP,SAP_HCM_OSA,Coding & Development
+186,ACTIVE,SAP_HCM,SAP,SAP_HCM_PA,Coding & Development
+187,ACTIVE,SAP_HCM,SAP,SAP_HCM_PAYROLL,Coding & Development
+188,ACTIVE,SAP_HCM,SAP,SAP_HCM_PD,Coding & Development
+189,ACTIVE,SAP_HCM,SAP,SAP_HCM_TEM,Coding & Development
+190,ACTIVE,SAP_HCM,SAP,SAP_HCM_TM,Coding & Development
+191,ACTIVE,SAP_HCM,SAP,SAP_HCM_Travel,Coding & Development
+192,ACTIVE,SAP_IS_Retail,SAP,SAP_IS_Retail_MM,Coding & Development
+193,ACTIVE,SAP_IS_Retail,SAP,SAP_IS_Retail_SD,Coding & Development
+194,ACTIVE,SAP_MDM,SAP,,Coding & Development
+195,ACTIVE,SAP_MM,SAP,,Coding & Development
+196,ACTIVE,SAP_Mobility,SAP,,Coding & Development
+197,ACTIVE,SAP_PM,SAP,,Coding & Development
+198,ACTIVE,SAP_Portal,SAP,SAP_EP (Core),Coding & Development
+199,ACTIVE,SAP_Portal,SAP,SAP_HCP (Cloud for Portal),Coding & Development
+200,ACTIVE,SAP_Portal,SAP,,Coding & Development
+201,ACTIVE,SAP_PP,SAP,,Coding & Development
+202,ACTIVE,SAP_Project Manager,SAP,,Coding & Development
+203,ACTIVE,SAP_PS,SAP,,Coding & Development
+204,ACTIVE,SAP_SD,SAP,SAP_SD_CS,Coding & Development
+205,ACTIVE,SAP_SD,SAP,SAP_SD_GTM,Coding & Development
+206,ACTIVE,SAP_SD,SAP,SAP_SD_GTS,Coding & Development
+207,ACTIVE,SAP_SD,SAP,SAP_SD_LE,Coding & Development
+208,ACTIVE,SAP_Service Desk Analyst,SAP,,Coding & Development
+209,ACTIVE,SAP_SF (Successfactor),SAP,SAP_SF_EC,Coding & Development
+210,ACTIVE,SAP_SF (Successfactor),SAP,SAP_SF_PM-GM,Coding & Development
+211,ACTIVE,SAP_SRM,SAP,SAP_SRM,Coding & Development
+212,ACTIVE,SAP_SRM,SAP,SAP_SRM_CCM,Coding & Development
+213,ACTIVE,SAP_SRM,SAP,SAP_SRM_MDM,Coding & Development
+214,ACTIVE,SAP_TPM,SAP,SAP_BP,Coding & Development
+215,ACTIVE,SAP_TPM,SAP,SAP_IBP,Coding & Development
+216,ACTIVE,SAP_TPM,SAP,SAP_TCM-Dispute Management,Coding & Development
+217,ACTIVE,SAP_TPM,SAP,SAP_TPM,Coding & Development
+218,ACTIVE,SAP_UI5,SAP,,Coding & Development
+219,ACTIVE,SAP_WM/EWM,SAP,,Coding & Development
+220,ACTIVE,SAP_XI/PI,SAP,SAP_HCI (Cloud Integrations),Coding & Development
+221,ACTIVE,SAP_XI/PI,SAP,SAP_PI (Core),Coding & Development
+222,ACTIVE,SAP_XI/PI,SAP,SAP_PO (BPM & BRM),Coding & Development
+223,ACTIVE,SAP_XI/PI,SAP,,Coding & Development
+224,ACTIVE,ALM,Microsoft,Visual Studio 2015,Coding & Development
+225,ACTIVE,Build Management,Microsoft,"MS Build, Scripting",Coding & Development
+226,ACTIVE,Change Management,Microsoft,"TFS, Git",Coding & Development
+227,ACTIVE,Code Static Analysis,Microsoft,Fxcop,Coding & Development
+228,ACTIVE,Code Static Analysis,Microsoft,Resharper,Coding & Development
+229,ACTIVE,Code Static Analysis,Microsoft,Sonar,Coding & Development
+230,ACTIVE,Code Static Analysis,Microsoft,Style Cop,Coding & Development
+231,ACTIVE,Contineous Integration,Microsoft,"TFS, VSO",Coding & Development
+232,ACTIVE,Framework,Microsoft,.Net 2.0/3.0/4.0/4.5,Coding & Development
+233,ACTIVE,Framework,Microsoft,.Net Compact Framework 3.5/3.7,Coding & Development
+234,ACTIVE,Framework,Microsoft,.Net Core 5,Coding & Development
+235,ACTIVE,Framework,Microsoft,.Net runtime 4.6,Coding & Development
+236,ACTIVE,Framework,Microsoft,"Ado.Net, Linq To SQL, Dapper.Net",Coding & Development
+237,ACTIVE,Framework,Microsoft,AngularJS,Coding & Development
+238,ACTIVE,Framework,Microsoft,Asp.Net MVC 3.0/4.0/5.0,Coding & Development
+239,ACTIVE,Framework,Microsoft,Asp.Net MVC 6.0,Coding & Development
+240,ACTIVE,Framework,Microsoft,Asp.Net WebForms 2.0/3.5/4.0/4.5/4.5.1/4.5.2/5,Coding & Development
+241,ACTIVE,Framework,Microsoft,EF 3.5/4.0/5.0/6.0/7.0,Coding & Development
+242,ACTIVE,Framework,Microsoft,Jquery,Coding & Development
+243,ACTIVE,Framework,Microsoft,Modernizr,Coding & Development
+244,ACTIVE,Framework,Microsoft,Nhibernate,Coding & Development
+245,ACTIVE,Framework,Microsoft,Node.js,Coding & Development
+246,ACTIVE,Framework,Microsoft,"RabbitMQ, MSMQ, Service Broker",Coding & Development
+247,ACTIVE,Framework,Microsoft,"Reddis,AppFabric,Memed cache",Coding & Development
+248,ACTIVE,Framework,Microsoft,SignalR,Coding & Development
+249,ACTIVE,Framework,Microsoft,"SMTP, Sendgrid",Coding & Development
+250,ACTIVE,Framework,Microsoft,"Unity, MEF,AutoFac,.Net Integrated Framework",Coding & Development
+251,ACTIVE,Framework,Microsoft,"WCF, Web API",Coding & Development
+252,ACTIVE,Framework,Microsoft,WF,Coding & Development
+253,ACTIVE,Framework,Microsoft,Window Service,Coding & Development
+254,ACTIVE,Framework,Microsoft,WinForms,Coding & Development
+255,ACTIVE,Framework,Microsoft,WPF,Coding & Development
+256,ACTIVE,IOT,Microsoft,Window 10 IOT SDK,Coding & Development
+257,ACTIVE,Logging framework,Microsoft,.Net integrated framework,Coding & Development
+258,ACTIVE,Logging framework,Microsoft,Log4Net,Coding & Development
+259,ACTIVE,Logging framework,Microsoft,Nlog,Coding & Development
+260,ACTIVE,Package Manger ( Server),Microsoft,Nuget,Coding & Development
+261,ACTIVE,Package Manger (Client),Microsoft,"Gulp,npm",Coding & Development
+262,ACTIVE,Packaging,Microsoft,"VS Package, Wix , Xcopy, ClickOnce",Coding & Development
+263,ACTIVE,Programming Language,Microsoft,C#,Coding & Development
+264,ACTIVE,Programming Language,Microsoft,VB,Coding & Development
+265,ACTIVE,RAD,Microsoft,"T4 Template, Scaffolding",Coding & Development
+266,ACTIVE,Release Mangement,Microsoft,Visual Studio InRelease,Coding & Development
+267,ACTIVE,Script Language,Microsoft,Batch file,Coding & Development
+268,ACTIVE,Script Language,Microsoft,Javascript,Coding & Development
+269,ACTIVE,Script Language,Microsoft,Powershell,Coding & Development
+270,ACTIVE,Script Language,Microsoft,T-SQL,Coding & Development
+271,ACTIVE,Security/Access Control,Microsoft,Asp.net Identity,Coding & Development
+272,ACTIVE,Server ( Data),Microsoft,SQL Server 2010/2012/2014/2016,Coding & Development
+273,ACTIVE,Server (Integration and workflow),Microsoft,Biztalk Server 2015,Coding & Development
+274,ACTIVE,Server (Web),Microsoft,IIS 6.0/7.0/7.5/8.0/8.5/10.0,Coding & Development
+275,ACTIVE,Server(CMS),Microsoft,"SharePoint,SiteCore,DNN",Coding & Development
+276,ACTIVE,Tools ( CRM),Microsoft,MS Dynamics 2010/2013/2015/online,Coding & Development
+277,ACTIVE,Tools(Troubleshooting),Microsoft,"Fiddler,Soap Client",Coding & Development
+278,ACTIVE,UI Development,Microsoft,CSS3,Coding & Development
+279,ACTIVE,UI Development,Microsoft,HTML5,Coding & Development
+280,ACTIVE,Virtualization,Microsoft,Hyper-V,Coding & Development
+281,ACTIVE,Window Mobile,Microsoft,"UWP SDK,Window SDK, Cordova",Coding & Development
+282,ACTIVE,Advanced Analytics,Analytics,Alteryx,Coding & Development
+283,ACTIVE,Advanced Analytics,Analytics,Base SAS,Coding & Development
+284,ACTIVE,Advanced Analytics,Analytics,Data Analysis,Coding & Development
+285,ACTIVE,Advanced Analytics,Analytics,R Library,Coding & Development
+286,ACTIVE,Advanced Analytics,Analytics,Revo R,Coding & Development
+287,ACTIVE,Advanced Analytics,Analytics,Statistical Modelling,Coding & Development
+288,ACTIVE,Advanced Analytics,Analytics,Web Analytics,Coding & Development
+289,ACTIVE,Machine Learning,Analytics,Azure ML,Coding & Development
+290,ACTIVE,Machine Learning,Analytics,Python,Coding & Development
+291,ACTIVE,Advanced Vizualization,BI/Visualiztion,d3js,Coding & Development
+292,ACTIVE,Advanced Vizualization,BI/Visualiztion,PowerBI,Coding & Development
+293,ACTIVE,Advanced Vizualization,BI/Visualiztion,Qlikview,Coding & Development
+294,ACTIVE,Advanced Vizualization,BI/Visualiztion,Tableau,Coding & Development
+295,ACTIVE,Advanced Vizualization,BI/Visualiztion,TIBCO Spotfire,Coding & Development
+296,ACTIVE,Appliance,BI/Visualiztion,Esri,Coding & Development
+297,ACTIVE,Appliance,BI/Visualiztion,OBIA,Coding & Development
+298,ACTIVE,Appliance,BI/Visualiztion,Oracle Hyperion Planning,Coding & Development
+299,ACTIVE,Appliance,BI/Visualiztion,Oracle_Functional_Taleo,Coding & Development
+300,ACTIVE,Appliance,BI/Visualiztion,PBBI,Coding & Development
+301,ACTIVE,Business Intelligence,BI/Visualiztion,Cognos,Coding & Development
+302,ACTIVE,Business Intelligence,BI/Visualiztion,Crytal Reports,Coding & Development
+303,ACTIVE,Business Intelligence,BI/Visualiztion,Design Studio,Coding & Development
+304,ACTIVE,Business Intelligence,BI/Visualiztion,JasperSoft,Coding & Development
+305,ACTIVE,Business Intelligence,BI/Visualiztion,Lumira,Coding & Development
+306,ACTIVE,Business Intelligence,BI/Visualiztion,Microstrategy,Coding & Development
+307,ACTIVE,Business Intelligence,BI/Visualiztion,OBIEE,Coding & Development
+308,ACTIVE,Business Intelligence,BI/Visualiztion,OBIEE+ (Hyperion),Coding & Development
+309,ACTIVE,Business Intelligence,BI/Visualiztion,Panorama Necto,Coding & Development
+310,ACTIVE,Business Intelligence,BI/Visualiztion,Pentaho BI,Coding & Development
+311,ACTIVE,Business Intelligence,BI/Visualiztion,SAP BO Xcelsius,Coding & Development
+312,ACTIVE,Business Intelligence,BI/Visualiztion,SAP Business Objects (BOXI),Coding & Development
+313,ACTIVE,Business Intelligence,BI/Visualiztion,SQL Server Reporting Services (SSRS),Coding & Development
+314,ACTIVE,Business Intelligence,BI/Visualiztion,SQL Server Reporting Services (SSRS),Coding & Development
+315,ACTIVE,Business Intelligence,BI/Visualiztion,Webfocus,Coding & Development
+316,ACTIVE,OLAP,BI/Visualiztion,SSAS,Coding & Development
+317,ACTIVE,Data Integration/ELT,Big Data,Denodo,Coding & Development
+318,ACTIVE,Data Integration/ELT,Big Data,Dundas,Coding & Development
+319,ACTIVE,Data Platform,Big Data,Composite,Coding & Development
+320,ACTIVE,Data Platform,Big Data,Hadoop (Apache),Coding & Development
+321,ACTIVE,Data Platform,Big data,Map Reduce,Coding & Development
+322,ACTIVE,Data Platform,Big data,Spark,Coding & Development
+323,ACTIVE,Data Platform,Big Data,Splunk,Coding & Development
+324,ACTIVE,Hadoop,Big Data,Hadoop (DAS),Coding & Development
+325,ACTIVE,NoSQL Database,Big data,Cassandra,Coding & Development
+326,ACTIVE,NoSQL Database,Big data,Cloudera,Coding & Development
+327,ACTIVE,NoSQL Database,Big data,Couchbase,Coding & Development
+328,ACTIVE,NoSQL Database,Big Data,DynamoDB,Coding & Development
+329,ACTIVE,NoSQL Database,Big data,MongoDB,Coding & Development
+330,ACTIVE,NoSQL Database,Big Data,RedShift,Coding & Development
+331,ACTIVE,Programming/Scripting,Big data,Hive,Coding & Development
+332,ACTIVE,Programming/Scripting,Big data,Pig,Coding & Development
+333,ACTIVE,Programming/Scripting,Big data,Scala,Coding & Development
+334,ACTIVE,Appliance,Data Management,InfoSphere pure view (Netezza),Coding & Development
+335,ACTIVE,Appliance,Data Management,Murex,Coding & Development
+336,ACTIVE,Appliance,Data Management,Teradata,Coding & Development
+337,ACTIVE,Architecture,Data Management,Database Architecture,Coding & Development
+338,ACTIVE,Architecture,Data Management,ETL Architecture,Coding & Development
+339,ACTIVE,Architecture,Data Management,Oracle,Coding & Development
+340,ACTIVE,Architecture,Data Management,SQL Server,Coding & Development
+341,ACTIVE,Data Architecture,Data Management,Data Modeling,Coding & Development
+342,ACTIVE,Data Modeling,Data Management,Toad,Coding & Development
+343,ACTIVE,Database,Data Management,Oracle Exadata,Coding & Development
+344,ACTIVE,Database,Data Management,Database Design,Coding & Development
+345,ACTIVE,Database,Data Management,DB2,Coding & Development
+346,ACTIVE,Database administration,Data Management,DB2,Coding & Development
+347,ACTIVE,Database administration,Data Management,Oracle,Coding & Development
+348,ACTIVE,Database administration,Data Management,SQL Server,Coding & Development
+349,ACTIVE,Enterprise Data Management,Data Management,Cadis,Coding & Development
+350,ACTIVE,ETL,Data Management,Ab Initio,Coding & Development
+351,ACTIVE,ETL,Data Management,BODS/BODI,Coding & Development
+352,ACTIVE,ETL,Data Management,Informatica,Coding & Development
+353,ACTIVE,ETL,Data Management,InfoSphere Information Analyzer,Coding & Development
+354,ACTIVE,ETL,Data Management,InfoSphere Information Server(DataStage),Coding & Development
+355,ACTIVE,ETL,Data Management,InfoSphere QualityStage,Coding & Development
+356,ACTIVE,ETL,Data Management,ODI,Coding & Development
+357,ACTIVE,ETL,Data Management,OWB,Coding & Development
+358,ACTIVE,ETL,Data Management,Pentaho Kettle,Coding & Development
+359,ACTIVE,ETL,Data Management,SAS DI,Coding & Development
+360,ACTIVE,ETL,Data Management,SQL Server Integration Services (SSIS),Coding & Development
+361,ACTIVE,ETL,Data Management,SQL Server Integration Services (SSIS),Coding & Development
+362,ACTIVE,ETL,Data Management,Talend,Coding & Development
+363,ACTIVE,AWS,Data Management,Collibra,Coding & Development
+364,ACTIVE,MDM,Data Management,IBM MDM,Coding & Development
+365,ACTIVE,MDM,Data Management,Informatica MDM,Coding & Development
+366,ACTIVE,MDM,Data Management,Infosphere MDM server,Coding & Development
+367,ACTIVE,MDM,Data Management,Kalido MDM,Coding & Development
+368,ACTIVE,MDM,Data Management,Master Data Management,Coding & Development
+369,ACTIVE,MDM,Data Management,Oracle MDM,Coding & Development
+370,ACTIVE,MDM,Data Management,SAP MDM,Coding & Development
+371,ACTIVE,Scripting/Querying,Data Management,Oracle_PLSQL,Coding & Development
+372,ACTIVE,Scripting/Querying,Data Management,PL/SQL,Coding & Development
+373,ACTIVE,Azure,.NET,Analytics Services,Coding & Development
+374,ACTIVE,Azure,.NET,Azure App Services,Coding & Development
+375,ACTIVE,Azure,.NET,"Content Services (media, CDN)",Coding & Development
+376,ACTIVE,Azure,.NET,"Fundamental Azure Services (IaaS, VNET, Storage etc)",Coding & Development
+377,ACTIVE,Azure,.NET,Hybrid Integration,Coding & Development
+378,ACTIVE,Azure,.NET,Identity and Access Management,Coding & Development
+379,ACTIVE,Azure,.NET,Mobile Services,Coding & Development
+380,ACTIVE,Azure,.NET,Service Fabric,Coding & Development
+381,ACTIVE,Cloud Native Services,.NET,"Microservices, Docker, Mesos etc",Coding & Development
+382,ACTIVE,SoftLayer,.NET,Fundamental SoftLayer Services,Coding & Development
+383,ACTIVE,Cloud Native Services,Java,"Microservices (Springboot), Docker, Mesos etc",Coding & Development
+384,ACTIVE,SoftLayer,Java,Fundamental SoftLayer Services,Coding & Development
+385,ACTIVE,.Net,Digital Commerce,Orchestra,Coding & Development
+386,ACTIVE,.Net,Digital Commerce,Sitecore Commerce,Coding & Development
+387,ACTIVE,Java,Digital Commerce,ATG/ Oracle Commerce,Coding & Development
+388,ACTIVE,Java,Digital Commerce,Hybris,Coding & Development
+389,ACTIVE,Java,Digital Commerce,Intershop,Coding & Development
+390,ACTIVE,Java,Digital Commerce,Sterling Commerce,Coding & Development
+391,ACTIVE,Java,Digital Commerce,WebSphere Commerce Server,Coding & Development
+392,ACTIVE,PHP,Digital Commerce,Magento,Coding & Development
+393,ACTIVE,Ruby,Digital Commerce,Spree Commerce,Coding & Development
+394,ACTIVE,.NET WCM,Web Content Management (WCM),API Server,Coding & Development
+395,ACTIVE,.NET WCM,Web Content Management (WCM),Electron,Coding & Development
+396,ACTIVE,.NET WCM,Web Content Management (WCM),SDL Tridion,Coding & Development
+397,ACTIVE,.NET WCM,Web Content Management (WCM),Sitecore,Coding & Development
+398,ACTIVE,Java WCM,Web Content Management (WCM),Adobe CQ5/ AEM,Coding & Development
+399,ACTIVE,Java WCM,Web Content Management (WCM),IBM WCM,Coding & Development
+400,ACTIVE,Java WCM,Web Content Management (WCM),Magnolia,Coding & Development
+401,ACTIVE,Java WCM,Web Content Management (WCM),Oracle WS,Coding & Development
+402,ACTIVE,Java WCM,Web Content Management (WCM),Teamsite,Coding & Development
+403,ACTIVE,PHP WCM,Web Content Management (WCM),Drupal,Coding & Development
+404,ACTIVE,PHP WCM,Web Content Management (WCM),Wordpress/Joomla,Coding & Development
+405,ACTIVE,APPIAN BPM,EAI,APPIAN,Coding & Development
+406,ACTIVE,IBM,EAI,API MANAGEMENT,Coding & Development
+407,ACTIVE,IBM,EAI,CASTIRON,Coding & Development
+408,ACTIVE,IBM,EAI,DATA POWER,Coding & Development
+409,ACTIVE,IBM,EAI,IBM BPM,Coding & Development
+410,ACTIVE,IBM,EAI,WESB,Coding & Development
+411,ACTIVE,IBM,EAI,WMB/ IIB,Coding & Development
+413,ACTIVE,IBM,EAI,WODM / ILOG,Coding & Development
+414,ACTIVE,IBM,EAI,WPS,Coding & Development
+415,ACTIVE,JAVA,EAI,ACTIVITI BPM,Coding & Development
+416,ACTIVE,JAVA,EAI,APIGEE,Coding & Development
+417,ACTIVE,JAVA,EAI,DELL BOOMI,Coding & Development
+418,ACTIVE,JAVA,EAI,LAYER 7 -API MANAGEMENT,Coding & Development
+419,ACTIVE,JAVA,EAI,MULESOFT,Coding & Development
+420,ACTIVE,JAVA,EAI,REDHAT DROOLS,Coding & Development
+421,ACTIVE,JAVA,EAI,REDHAT FUSE ESB,Coding & Development
+422,ACTIVE,JAVA,EAI,REDHAT JBPM,Coding & Development
+423,ACTIVE,JAVA,EAI,WSO2,Coding & Development
+424,ACTIVE,LAYER7,EAI,API MANAGEMENT,Coding & Development
+425,ACTIVE,MICROSOFT,EAI,AZURE BIZTALK SERVICES,Coding & Development
+426,ACTIVE,MICROSOFT,EAI,BIZTALK,Coding & Development
+427,ACTIVE,ORACLE,EAI,Cloud Integration services,Coding & Development
+428,ACTIVE,ORACLE,EAI,SOA - BPEL,Coding & Development
+429,ACTIVE,ORACLE,EAI,SOA - SERVICES BUS,Coding & Development
+430,ACTIVE,PEGA SYSTEM,EAI,PEGA DSM,Coding & Development
+431,ACTIVE,PEGA SYSTEM,EAI,PEGA NBA,Coding & Development
+432,ACTIVE,PEGA SYSTEM,EAI,PEGA PRPC,Coding & Development
+433,ACTIVE,PEGA SYSTEM,EAI,PEGA TMF,Coding & Development
+434,ACTIVE,PEGA SYSTEM,EAI,PEGA PMF,Coding & Development
+435,ACTIVE,SOFTWARE AG,EAI,ADAPTERS,Coding & Development
+436,ACTIVE,SOFTWARE AG,EAI,BPM / BAM / CAF,Coding & Development
+437,ACTIVE,SOFTWARE AG,EAI,DESIGNER,Coding & Development
+438,ACTIVE,SOFTWARE AG,EAI,MWS,Coding & Development
+439,ACTIVE,SOFTWARE AG,EAI,WEBMETHODS,Coding & Development
+440,ACTIVE,TIBCO,EAI,ACTIVE MATRIX BPM,Coding & Development
+441,ACTIVE,TIBCO,EAI,ACTIVE MATRIX ESB,Coding & Development
+442,ACTIVE,TIBCO,EAI,BUSINESS EVENTS,Coding & Development
+443,ACTIVE,TIBCO,EAI,BW,Coding & Development
+444,ACTIVE,TIBCO,EAI,EMS,Coding & Development
+445,ACTIVE,TIBCO,EAI,IPROCESS,Coding & Development
+446,ACTIVE,TIBCO,EAI,MASHREY,Coding & Development
+447,ACTIVE,Adabas,Mainframe,Adabas,Coding & Development
+448,ACTIVE,Assembler,Mainframe,Assembler,Coding & Development
+449,ACTIVE,Changeman,Mainframe,Changeman,Coding & Development
+450,ACTIVE,CICS,Mainframe,Vision Plus,Coding & Development
+451,ACTIVE,COBOL,Mainframe,ADSO,Coding & Development
+452,ACTIVE,COBOL,Mainframe,CICS,Coding & Development
+453,ACTIVE,COBOL,Mainframe,COBOL DB2,Coding & Development
+454,ACTIVE,COBOL,Mainframe,COBOL IDMS,Coding & Development
+455,ACTIVE,COBOL,Mainframe,COBOL VSAM,Coding & Development
+456,ACTIVE,COBOL,Mainframe,Gener/OL,Coding & Development
+457,ACTIVE,COBOL,Mainframe,IMS Connect,Coding & Development
+458,ACTIVE,COBOL,Mainframe,IMS DB,Coding & Development
+459,ACTIVE,COBOL,Mainframe,IMS DC,Coding & Development
+460,ACTIVE,COBOL,Mainframe,MF COBOL,Coding & Development
+461,ACTIVE,COBOL,Mainframe,Microfocus COBOL,Coding & Development
+462,ACTIVE,COBOL,Mainframe,MQ,Coding & Development
+463,ACTIVE,COBOL,Mainframe,PACBASE,Coding & Development
+464,ACTIVE,COBOL,Mainframe,Stratus,Coding & Development
+465,ACTIVE,COBOL,Mainframe,Vantage,Coding & Development
+466,ACTIVE,COBOL,Mainframe,VSAM,Coding & Development
+467,ACTIVE,COOLGEN,Mainframe,COOLGEN,Coding & Development
+468,ACTIVE,CSP,Mainframe,CSP,Coding & Development
+469,ACTIVE,CULPRIT,Mainframe,CULPRIT,Coding & Development
+470,ACTIVE,DATACOM,Mainframe,DATACOM,Coding & Development
+471,ACTIVE,DATACOM,Mainframe,DYL280,Coding & Development
+472,ACTIVE,DB2,Mainframe,Apptune,Coding & Development
+473,ACTIVE,DB2,Mainframe,DB2,Coding & Development
+474,ACTIVE,DB2,Mainframe,DB2 Connect,Coding & Development
+475,ACTIVE,DB2,Mainframe,DB2 Stored Procedure,Coding & Development
+476,ACTIVE,DB2,Mainframe,QMF,Coding & Development
+477,ACTIVE,DB2,Mainframe,SPUFI,Coding & Development
+478,ACTIVE,DB2,Mainframe,Strobe,Coding & Development
+479,ACTIVE,Easytrieve,Mainframe,Easytrieve,Coding & Development
+480,ACTIVE,Endeavor,Mainframe,Endeavor,Coding & Development
+481,ACTIVE,Expeditor,Mainframe,Expeditor,Coding & Development
+482,ACTIVE,Files,Mainframe,FileAid,Coding & Development
+483,ACTIVE,Files,Mainframe,FileManager,Coding & Development
+484,ACTIVE,Focus,Mainframe,Focus,Coding & Development
+485,ACTIVE,IBM Debugger,Mainframe,IBM Debugger,Coding & Development
+486,ACTIVE,JCL,Mainframe,AbendAid,Coding & Development
+487,ACTIVE,JCL,Mainframe,CA7,Coding & Development
+488,ACTIVE,JCL,Mainframe,Control-M,Coding & Development
+489,ACTIVE,JCL,Mainframe,"FTP, NDM",Coding & Development
+490,ACTIVE,JCL,Mainframe,JCL,Coding & Development
+491,ACTIVE,Natural,Mainframe,Natural,Coding & Development
+492,ACTIVE,Panvalet,Mainframe,Panvalet,Coding & Development
+493,ACTIVE,PL1,Mainframe,PL1,Coding & Development
+494,ACTIVE,REXX,Mainframe,REXX - Mainframe or Windows,Coding & Development
+495,ACTIVE,SAS,Mainframe,SAS,Coding & Development
+496,ACTIVE,TSO/ISPF,Mainframe,CLIST,Coding & Development
+497,ACTIVE,TSO/ISPF,Mainframe,ROSCOE,Coding & Development
+498,ACTIVE,TSO/ISPF,Mainframe,TSO/ISPF,Coding & Development
+499,ACTIVE,CLP,Midrange,CL/400,Coding & Development
+500,ACTIVE,Cobol,Midrange,Cobol 400,Coding & Development
+501,ACTIVE,Database,Midrange,DB2/400,Coding & Development
+502,ACTIVE,Database,Midrange,SQL/400,Coding & Development
+503,ACTIVE,LANSA,Midrange,LANSA Integrator,Coding & Development
+504,ACTIVE,LANSA,Midrange,LANSA iSeries,Coding & Development
+505,ACTIVE,LANSA,Midrange,LANSA Web,Coding & Development
+506,ACTIVE,LANSA,Midrange,Visual LANSA,Coding & Development
+507,ACTIVE,RPG,Midrange,RPG 400,Coding & Development
+508,ACTIVE,RPG,Midrange,RPG III,Coding & Development
+509,ACTIVE,RPG,Midrange,RPGLE,Coding & Development
+510,ACTIVE,SYNON,Midrange,SYNON/Cool2E,Coding & Development
+511,ACTIVE,Mobile apps,Mobility,Android,Coding & Development
+512,ACTIVE,Mobile apps,Mobility,iOS,Coding & Development
+513,ACTIVE,Mobile apps,Mobility,Phonegap,Coding & Development
+514,ACTIVE,Mobile apps,Mobility,Xamarin,Coding & Development
+515,ACTIVE,.Net,Enterprise Portals,Sharepoint,Coding & Development
+516,ACTIVE,Java,Enterprise Portals,Alfresco,Coding & Development
+517,ACTIVE,Java,Enterprise Portals,Backbase,Coding & Development
+518,ACTIVE,Java,Enterprise Portals,HP Exstream,Coding & Development
+519,ACTIVE,Java,Enterprise Portals,Liferay Portal,Coding & Development
+520,ACTIVE,Java,Enterprise Portals,WebSphere Portal,Coding & Development
+521,ACTIVE,JavaScript,SaaS,Office 365,Coding & Development
+522,ACTIVE,Java,Search,Autonomy IDOL,Coding & Development
+523,ACTIVE,Java,Search,Elastic Search,Coding & Development
+524,ACTIVE,Java,Search,Oracle Endeca,Coding & Development
+525,ACTIVE,Java,Search,Solr,Coding & Development
+526,ACTIVE,Java,Search,Verity K2,Coding & Development
+527,ACTIVE,Advanced Analytics,Analytics,Matlab,Coding & Development
+528,ACTIVE,Mobile apps,Mobility,Delphi,Coding & Development
+529,ACTIVE,Mobile apps,Mobility,Flex,Coding & Development
+530,ACTIVE,Analytics,Salesforce,Analytics,Coding & Development
+531,ACTIVE,CRM,Salesforce,Marketing Cloud,Coding & Development
+532,ACTIVE,CRM,Salesforce,Pardot,Coding & Development
+533,ACTIVE,CRM,Salesforce,Sales Cloud,Coding & Development
+534,ACTIVE,CRM,Salesforce,Service Cloud,Coding & Development
+535,ACTIVE,Platform,Salesforce,App Cloud,Coding & Development
+536,ACTIVE,Platform,Salesforce,Community,Coding & Development
+537,ACTIVE,Platform,Salesforce,CSS,Coding & Development
+538,ACTIVE,Platform,Salesforce,HTML,Coding & Development
+539,ACTIVE,Platform,Salesforce,JavaScript,Coding & Development
+540,ACTIVE,Platform,Salesforce,JQuery,Coding & Development
+541,ACTIVE,Platform,Salesforce,Lightning,Coding & Development
+542,ACTIVE,Platform,Salesforce,Mobile,Coding & Development
+543,ACTIVE,User Experience Design,User Experience Design,Interaction Design - Mobile,Coding & Development
+544,ACTIVE,User Experience Design,User Experience Design,Interaction Design - Web,Coding & Development
+545,ACTIVE,User Experience Design,User Experience Design,Usability & Research,Coding & Development
+546,ACTIVE,User Experience Design,User Experience Design,Visual Design,Coding & Development
+547,ACTIVE,Full Stack,Web Technologies,Advanced,Coding & Development
+548,ACTIVE,Full Stack,Web Technologies,Basic,Coding & Development
+549,ACTIVE,Full Stack,Web Technologies,Intermediate,Coding & Development
+550,ACTIVE,Responsive Web Design,Web Technologies,,Coding & Development
+551,ACTIVE,ORM,.NET,Nhibernate,Coding & Development
+552,ACTIVE,Reporting Tool,General,Jreport,Coding & Development
+553,ACTIVE,Text Editor,General,jEdit,Coding & Development
+554,ACTIVE,Web Technology,General,Javascript,Coding & Development
+555,ACTIVE,Web Technology,General,Jquery,Coding & Development
+556,ACTIVE,Web Technology,General,JSON,Coding & Development
+557,ACTIVE,Big Data,Java,Hadoop (Apache),Coding & Development
+558,ACTIVE,Big Data,Java,Hive (Apache),Coding & Development
+559,ACTIVE,Bug Tracker,Java,Bugzilla,Coding & Development
+560,ACTIVE,Build Tool,Java,Apache Ant,Coding & Development
+561,ACTIVE,Build Tool,Java,Apache Maven,Coding & Development
+562,ACTIVE,DI Framework,Java,Spring,Coding & Development
+563,ACTIVE,GUI Toolkit,Java,Swing,Coding & Development
+564,ACTIVE,IDE,Java,Netbeans,Coding & Development
+565,ACTIVE,J2ME,Java,J2ME,Coding & Development
+566,ACTIVE,Java EE,Java,Apache Web Server,Coding & Development
+567,ACTIVE,Java EE,Java,EJB,Coding & Development
+568,ACTIVE,Java EE,Java,Java Server Pages(JSP),Coding & Development
+569,ACTIVE,Java EE,Java,Jboss Application Server,Coding & Development
+570,ACTIVE,Java EE,Java,JMS,Coding & Development
+571,ACTIVE,Java EE,Java,Oracle WebLogic Server,Coding & Development
+572,ACTIVE,Java EE,Java,Servlet,Coding & Development
+573,ACTIVE,Java EE,Java,WebSphere Application Server,Coding & Development
+574,ACTIVE,ORM,Java,Hibernate,Coding & Development
+575,ACTIVE,Security Framework,Java,Spring Core,Coding & Development
+576,ACTIVE,Security Framework,Java,Spring Security,Coding & Development
+577,ACTIVE,Web Technology,Java,Apache Struts,Coding & Development
+578,ACTIVE,Web Technology,Java,JSF-IceFaces,Coding & Development
+579,ACTIVE,Web Technology,Java,JSF-MyFaces,Coding & Development
+580,ACTIVE,Web Technology,Java,JSF-PrimeFaces,Coding & Development
+581,ACTIVE,Web Technology,Java,JSF-RichFaces,Coding & Development
+582,ACTIVE,Web Technology,Java,Portlet,Coding & Development
+583,ACTIVE,Web Technology,Java,Spring MVC,Coding & Development
+584,ACTIVE,Communication Products - BSP & Device Drivers,Communication Products,BSP & Device Drivers,ER&D
+585,ACTIVE,Communication Products - Datacom L2/L3 Protocols,Communication Products,L2/L3 Protocols - Switching & routing,ER&D
+586,ACTIVE,"Communication Products - RTOS, Middleware and Applications",Communication Products,Linux-C,ER&D
+587,ACTIVE,"Communication Products - RTOS, Middleware and Applications",Communication Products,Linux-C++,ER&D
+588,ACTIVE,Communication products - Telecom Protocols,Communication Products,,ER&D
+589,ACTIVE,NMS/EMS,Communication Products,NMS/EMS,ER&D
+590,ACTIVE,Data Center Products - BIOS,Data Center Products,BIOS,ER&D
+591,ACTIVE,Data Center Products - Storage Technologies,Data Center Products,Storage Technologies,ER&D
+592,ACTIVE,Embedded Platform/Middleware - RTOS,Embedded - Platform/Middleware & RTOS,Linux-C,ER&D
+593,ACTIVE,Embedded Platform/Middleware - RTOS,Embedded - Platform/Middleware & RTOS,Linux-C++,ER&D
+594,ACTIVE,Embedded Platform/Middleware - RTOS,Embedded - Platform/Middleware & RTOS,OtherRTOS-C,ER&D
+595,ACTIVE,Embedded Platform/Middleware - RTOS,Embedded - Platform/Middleware & RTOS,OtherRTOS-C++,ER&D
+596,ACTIVE,Embedded Platform/Middleware - RTOS,Embedded - Platform/Middleware & RTOS,QNX-C,ER&D
+597,ACTIVE,Embedded Platform/Middleware - RTOS,Embedded - Platform/Middleware & RTOS,QNX-C++,ER&D
+598,ACTIVE,Embedded Platform/Middleware - Firmware,Embedded - Platform/Middleware & RTOS,Firmware-C,ER&D
+599,ACTIVE,Embedded Platform/Middleware - Firmware,Embedded - Platform/Middleware & RTOS,Firmware-C++,ER&D
+600,ACTIVE,Embedded Application Frameworks,Embedded Applications,Android Framework,ER&D
+601,ACTIVE,Embedded Application Frameworks,Embedded Applications,OtherApplicationFrameworks,ER&D
+602,ACTIVE,Embedded Application Frameworks,Embedded Applications,Qt,ER&D
+603,ACTIVE,Embedded Application Frameworks,Embedded Applications,Windows Embedded,ER&D
+604,ACTIVE,Embedded Applications - Firmware,Embedded Applications,Firmware-C,ER&D
+605,ACTIVE,Embedded Applications - Firmware,Embedded Applications,Firmware-C++,ER&D
+606,ACTIVE,Embedded Applications - RTOS,Embedded Applications,Linux-C,ER&D
+607,ACTIVE,Embedded Applications - RTOS,Embedded Applications,Linux-C++,ER&D
+608,ACTIVE,Embedded Applications - RTOS,Embedded Applications,OtherRTOS-C,ER&D
+609,ACTIVE,Embedded Applications - RTOS,Embedded Applications,OtherRTOS-C++,ER&D
+610,ACTIVE,"Embedded Core - BSP, Device Drivers & Firmware",Embedded Core,BIOS,ER&D
+611,ACTIVE,"Embedded Core - BSP, Device Drivers & Firmware",Embedded Core,BSP & Device Drivers,ER&D
+612,ACTIVE,"Embedded Core - BSP, Device Drivers & Firmware",Embedded Core,Firmware,ER&D
+613,ACTIVE,Embedded Core - DSP,Embedded Core,Communication protocols,ER&D
+614,ACTIVE,Embedded Core - DSP,Embedded Core,Multimedia,ER&D
+615,ACTIVE,Bluetooth profiles and applications,Short Range Wireless,Bluetooth Applications,ER&D
+616,ACTIVE,Bluetooth profiles and applications,Short Range Wireless,Bluetooth Profiles,ER&D
+617,ACTIVE,Bluetooth Stack,Short Range Wireless,Bluetooth Stack,ER&D
+618,ACTIVE,Bluetooth Testing,Short Range Wireless,Interoperability,ER&D
+619,ACTIVE,Bluetooth Testing,Short Range Wireless,"OtherShortRangeProtocols(DECT, ZigBee, etc.)",ER&D
+620,ACTIVE,Bluetooth Testing,Short Range Wireless,WIFI Protocols & Security,ER&D
+621,ACTIVE,UNIX,Systems,SS-AIX-L1,IMTS
+622,ACTIVE,UNIX,Systems,SS-AIX-L2,IMTS
+623,ACTIVE,UNIX,Systems,SS-AIX-L3,IMTS
+624,ACTIVE,UNIX,Systems,SS-AIX-L4,IMTS
+625,ACTIVE,Server,Systems,SS-MESSGING OTHERS-L1,IMTS
+626,ACTIVE,Server,Systems,SS-MESSGING OTHERS-L2,IMTS
+627,ACTIVE,Server,Systems,SS-MESSGING OTHERS-L3,IMTS
+628,ACTIVE,Server,Systems,SS-MESSGING OTHERS-L4,IMTS
+629,ACTIVE,Application Packaging,End User Services,EUS-APP PCKGNG-L1,IMTS
+717,ACTIVE,MS-SQL,Database,DB-MS-SQL-L2,IMTS
+630,ACTIVE,Application Packaging,End User Services,EUS-APP PCKGNG-L2,IMTS
+631,ACTIVE,Application Packaging,End User Services,EUS-APP PCKGNG-L3,IMTS
+632,ACTIVE,Application Packaging,End User Services,EUS-APP PCKGNG-L4,IMTS
+633,ACTIVE,Application Security,Security,SEC-APP SECURITY-L1,IMTS
+634,ACTIVE,Application Security,Security,SEC-APP SECURITY-L2,IMTS
+635,ACTIVE,Application Security,Security,SEC-APP SECURITY-L3,IMTS
+636,ACTIVE,Application Security,Security,SEC-APP SECURITY-L4,IMTS
+637,ACTIVE,Voice,Networking,NW-VOIP-L1,IMTS
+638,ACTIVE,Voice,Networking,NW-VOIP-L2,IMTS
+639,ACTIVE,Voice,Networking,NW-VOIP-L3,IMTS
+640,ACTIVE,Voice,Networking,NW-VOIP-L4,IMTS
+641,ACTIVE,Cloud Ops,DataCentre,DC-AWS-L1,IMTS
+642,ACTIVE,Cloud Ops,DataCentre,DC-AWS-L2,IMTS
+643,ACTIVE,Cloud Ops,DataCentre,DC-AWS-L3,IMTS
+644,ACTIVE,Cloud Ops,DataCentre,DC-AWS-L4,IMTS
+645,ACTIVE,Cloud Ops,DataCentre,DC-Azure-L1,IMTS
+646,ACTIVE,Cloud Ops,DataCentre,DC-Azure-L2,IMTS
+647,ACTIVE,Cloud Ops,DataCentre,DC-Azure-L3,IMTS
+648,ACTIVE,Cloud Ops,DataCentre,DC-Azure-L4,IMTS
+649,ACTIVE,Virtualisation,Systems,SS-CITRIX-L1,IMTS
+650,ACTIVE,Virtualisation,Systems,SS-CITRIX-L2,IMTS
+651,ACTIVE,Virtualisation,Systems,SS-CITRIX-L3,IMTS
+652,ACTIVE,Virtualisation,Systems,SS-CITRIX-L4,IMTS
+653,ACTIVE,Cloud Ops,DataCentre,DC-Cloud Ops-L1,IMTS
+654,ACTIVE,Cloud Ops,DataCentre,DC-Cloud Ops-L2,IMTS
+655,ACTIVE,Cloud Ops,DataCentre,DC-Cloud Ops-L3,IMTS
+656,ACTIVE,Cloud Ops,DataCentre,DC-Cloud Ops-L4,IMTS
+657,ACTIVE,DevOps,Application Support,AS-DevOps-L1,IMTS
+658,ACTIVE,DevOps,Application Support,AS-DevOps-L2,IMTS
+659,ACTIVE,DevOps,Application Support,AS-DevOps-L3,IMTS
+660,ACTIVE,DevOps,Application Support,AS-DevOps-L4,IMTS
+661,ACTIVE,Storage,Systems,SS-EMC-L1,IMTS
+662,ACTIVE,Storage,Systems,SS-EMC-L2,IMTS
+663,ACTIVE,Storage,Systems,SS-EMC-L3,IMTS
+664,ACTIVE,Storage,Systems,SS-EMC-L4,IMTS
+665,ACTIVE,Desktop Support,End User Services,EUS-L1,IMTS
+666,ACTIVE,Desktop Support,End User Services,EUS-L2,IMTS
+667,ACTIVE,Desktop Support,End User Services,EUS-L3,IMTS
+668,ACTIVE,Desktop Support,End User Services,EUS-L4,IMTS
+669,ACTIVE,Server,Systems,SS-EXCHANGE-L1,IMTS
+670,ACTIVE,Server,Systems,SS-EXCHANGE-L2,IMTS
+671,ACTIVE,Server,Systems,SS-EXCHANGE-L3,IMTS
+672,ACTIVE,Server,Systems,SS-EXCHANGE-L4,IMTS
+673,ACTIVE,Firewall,Networking,NW-FIREWALL-L1,IMTS
+674,ACTIVE,Firewall,Networking,NW-FIREWALL-L2,IMTS
+675,ACTIVE,Firewall,Networking,NW-FIREWALL-L3,IMTS
+676,ACTIVE,Firewall,Networking,NW-FIREWALL-L4,IMTS
+677,ACTIVE,Storage,Systems,SS-STORAGE-L1,IMTS
+678,ACTIVE,Storage,Systems,SS-STORAGE-L2,IMTS
+679,ACTIVE,Storage,Systems,SS-STORAGE-L3,IMTS
+680,ACTIVE,Storage,Systems,SS-STORAGE-L4,IMTS
+681,ACTIVE,"Governance, Risk and Compliance Services",Security,SEC-GRC-L1,IMTS
+682,ACTIVE,"Governance, Risk and Compliance Services",Security,SEC-GRC-L2,IMTS
+683,ACTIVE,"Governance, Risk and Compliance Services",Security,SEC-GRC-L3,IMTS
+684,ACTIVE,"Governance, Risk and Compliance Services",Security,SEC-GRC-L4,IMTS
+685,ACTIVE,Database Architecting,Database,DB-DB Architecting-L5,IMTS
+686,ACTIVE,Process/ Change/Incident Management-ITIL,Infra Operations,IO-Process/Change/Incident Mgmt-L1,IMTS
+687,ACTIVE,Process/ Change/Incident Management-ITIL,Infra Operations,IO-Process/Change/Incident Mgmt-L2,IMTS
+688,ACTIVE,Process/ Change/Incident Management-ITIL,Infra Operations,IO-Process/Change/Incident Mgmt-L3,IMTS
+689,ACTIVE,Process/ Change/Incident Management-ITIL,Infra Operations,IO-Process/Change/Incident Mgmt-L4,IMTS
+690,ACTIVE,Project Management,Infra Operations,IO-Infra Project Management-L5,IMTS
+691,ACTIVE,Networking Architecting,Networking,NW-NW Architecting-L5,IMTS
+692,ACTIVE,Security,Security,SEC-APP SECURITY-L1,IMTS
+693,ACTIVE,Security,Security,SEC-APP SECURITY-L2,IMTS
+694,ACTIVE,Security,Security,SEC-APP SECURITY-L3,IMTS
+695,ACTIVE,Security,Security,SEC-APP SECURITY-L4,IMTS
+696,ACTIVE,Security,Security,SEC-IAM-L1,IMTS
+697,ACTIVE,Security,Security,SEC-IAM-L2,IMTS
+698,ACTIVE,Security,Security,SEC-IAM-L3,IMTS
+699,ACTIVE,Security,Security,SEC-IAM-L4,IMTS
+700,ACTIVE,Security,Security,SEC-SOC-L1,IMTS
+701,ACTIVE,Security,Security,SEC-SOC-L2,IMTS
+702,ACTIVE,Security,Security,SEC-SOC-L3,IMTS
+703,ACTIVE,Security,Security,SEC-SOC-L4,IMTS
+704,ACTIVE,Security Architecting,Security,SEC-Security Architecting-L5,IMTS
+705,ACTIVE,Security Monitoring & Management,Security,SEC-SOC-L1,IMTS
+706,ACTIVE,Security Monitoring & Management,Security,SEC-SOC-L2,IMTS
+707,ACTIVE,Security Monitoring & Management,Security,SEC-SOC-L3,IMTS
+708,ACTIVE,Security Monitoring & Management,Security,SEC-SOC-L4,IMTS
+709,ACTIVE,Storage Architecting,Storage,SS-Storage Architecting-L5,IMTS
+710,ACTIVE,Linux/Unix Architecting,Systems,SS-Linux/Unix Architecting-L5,IMTS
+711,ACTIVE,Windows Architecting,Systems,SS-Windows Architecting-L5,IMTS
+712,ACTIVE,MY-SQL,Database,DB-MY-SQL-L1,IMTS
+713,ACTIVE,No SQL,Database,DB-NOSQL-L2,IMTS
+714,ACTIVE,No SQL,Database,DB-NOSQL-L3,IMTS
+715,ACTIVE,No SQL,Database,DB-NOSQL-L4,IMTS
+716,ACTIVE,MS-SQL,Database,DB-MS-SQL-L1,IMTS
+718,ACTIVE,MS-SQL,Database,DB-MS-SQL-L3,IMTS
+719,ACTIVE,MS-SQL,Database,DB-MS-SQL-L4,IMTS
+720,ACTIVE,Storage,Systems,SS-NetApp-L1,IMTS
+721,ACTIVE,Storage,Systems,SS-NetApp-L2,IMTS
+722,ACTIVE,Storage,Systems,SS-NetApp-L3,IMTS
+723,ACTIVE,Storage,Systems,SS-NetApp-L4,IMTS
+724,ACTIVE,Storage,Systems,SS-Backup-L1,IMTS
+725,ACTIVE,Storage,Systems,SS-Backup-L2,IMTS
+726,ACTIVE,Storage,Systems,SS-Backup-L3,IMTS
+727,ACTIVE,Storage,Systems,SS-Backup-L4,IMTS
+728,ACTIVE,Data,Networking,NW-ROUTING &SWITCHING-L1,IMTS
+729,ACTIVE,Data,Networking,NW-ROUTING &SWITCHING-L2,IMTS
+730,ACTIVE,Data,Networking,NW-ROUTING &SWITCHING-L3,IMTS
+731,ACTIVE,Data,Networking,NW-ROUTING &SWITCHING-L4,IMTS
+732,ACTIVE,Oracle,Database,DB-ORACLE-L1,IMTS
+733,ACTIVE,Oracle,Database,DB-ORACLE-L2,IMTS
+734,ACTIVE,Oracle,Database,DB-ORACLE-L3,IMTS
+735,ACTIVE,Oracle,Database,DB-ORACLE-L4,IMTS
+736,ACTIVE,Oracle Apps,Database,DB-ORACLEAPPS-L1,IMTS
+737,ACTIVE,Oracle Apps,Database,DB-ORACLEAPPS-L2,IMTS
+738,ACTIVE,Oracle Apps,Database,DB-ORACLEAPPS-L3,IMTS
+739,ACTIVE,Oracle Apps,Database,DB-ORACLEAPPS-L4,IMTS
+740,ACTIVE,Server,Systems,SS-SCCM-L1,IMTS
+741,ACTIVE,Server,Systems,SS-SCCM-L2,IMTS
+742,ACTIVE,Server,Systems,SS-SCCM-L3,IMTS
+743,ACTIVE,Server,Systems,SS-SCCM-L4,IMTS
+744,ACTIVE,Server,Systems,SS-SCOM-L1,IMTS
+745,ACTIVE,Server,Systems,SS-SCOM-L2,IMTS
+746,ACTIVE,Server,Systems,SS-SCOM-L3,IMTS
+747,ACTIVE,Server,Systems,SS-SCOM-L4,IMTS
+748,ACTIVE,Identity & Access Management,Security,SEC-IAM-L1,IMTS
+749,ACTIVE,Identity & Access Management,Security,SEC-IAM-L2,IMTS
+750,ACTIVE,Identity & Access Management,Security,SEC-IAM-L3,IMTS
+751,ACTIVE,Identity & Access Management,Security,SEC-IAM-L4,IMTS
+752,ACTIVE,Service Now,Application Support,AS-SNOW-L1,IMTS
+753,ACTIVE,Service Now,Application Support,AS-SNOW-L2,IMTS
+754,ACTIVE,Service Now,Application Support,AS-SNOW-L3,IMTS
+755,ACTIVE,Service Now,Application Support,AS-SNOW-L4,IMTS
+756,ACTIVE,Sharepoint,Application Support,AS-Sharepoint-L1,IMTS
+757,ACTIVE,Sharepoint,Application Support,AS-Sharepoint-L2,IMTS
+758,ACTIVE,Sharepoint,Application Support,AS-Sharepoint-L3,IMTS
+759,ACTIVE,Sharepoint,Application Support,AS-Sharepoint-L4,IMTS
+760,ACTIVE,Enterprise Content Management,Application Support,AS-ECM-L1,IMTS
+761,ACTIVE,Enterprise Content Management,Application Support,AS-ECM-L2,IMTS
+762,ACTIVE,Enterprise Content Management,Application Support,AS-ECM-L3,IMTS
+763,ACTIVE,Enterprise Content Management,Application Support,AS-ECM-L4,IMTS
+764,ACTIVE,Server,Systems,SS-LYNC-L1,IMTS
+765,ACTIVE,Server,Systems,SS-LYNC-L2,IMTS
+766,ACTIVE,Server,Systems,SS-LYNC-L3,IMTS
+767,ACTIVE,Server,Systems,SS-LYNC-L4,IMTS
+768,ACTIVE,UNIX,Systems,SS-Solaris-L1,IMTS
+769,ACTIVE,UNIX,Systems,SS-Solaris-L2,IMTS
+770,ACTIVE,UNIX,Systems,SS-Solaris-L3,IMTS
+771,ACTIVE,UNIX,Systems,SS-Solaris-L4,IMTS
+772,ACTIVE,Sybase,Database,DB-Sybase-L1,IMTS
+773,ACTIVE,Sybase,Database,DB-Sybase-L2,IMTS
+774,ACTIVE,Sybase,Database,DB-Sybase-L3,IMTS
+775,ACTIVE,Sybase,Database,DB-Sybase-L4,IMTS
+776,ACTIVE,Technical Support,Technical Support,TS-L1,IMTS
+777,ACTIVE,Technical Support,Technical Support,TS-L2,IMTS
+778,ACTIVE,Technical Support,Technical Support,TS-L3,IMTS
+779,ACTIVE,Technical Support,Technical Support,TS-L4,IMTS
+780,ACTIVE,Middleware,Application Support,AS-MIDDLEWARE&ECM - L1,IMTS
+781,ACTIVE,Middleware,Application Support,AS-MIDDLEWARE&ECM - L2,IMTS
+782,ACTIVE,Middleware,Application Support,AS-MIDDLEWARE&ECM - L3,IMTS
+783,ACTIVE,Middleware,Application Support,AS-MIDDLEWARE&ECM - L4,IMTS
+784,ACTIVE,LINUX,Systems,SS-LINUX-L1,IMTS
+785,ACTIVE,LINUX,Systems,SS-LINUX-L2,IMTS
+786,ACTIVE,LINUX,Systems,SS-LINUX-L3,IMTS
+787,ACTIVE,LINUX,Systems,SS-LINUX-L4,IMTS
+788,ACTIVE,VMWare,End User Services,EUS-VDI-L1,IMTS
+789,ACTIVE,VMWare,End User Services,EUS-VDI-L2,IMTS
+790,ACTIVE,VMWare,End User Services,EUS-VDI-L3,IMTS
+791,ACTIVE,VMWare,End User Services,EUS-VDI-L4,IMTS
+792,ACTIVE,CITRIX,End User Services,EUS-XenApp-L1,IMTS
+793,ACTIVE,CITRIX,End User Services,EUS-XenApp-L2,IMTS
+794,ACTIVE,CITRIX,End User Services,EUS-XenApp-L3,IMTS
+795,ACTIVE,CITRIX,End User Services,EUS-XenApp-L4,IMTS
+796,ACTIVE,Virtualisation,Systems,SS-VMWare-L1,IMTS
+797,ACTIVE,Virtualisation,Systems,SS-VMWare-L2,IMTS
+798,ACTIVE,Virtualisation,Systems,SS-VMWare-L3,IMTS
+799,ACTIVE,Virtualisation,Systems,SS-VMWare-L4,IMTS
+800,ACTIVE,Weblogic,Application Support,AS-Weblogic-L1,IMTS
+801,ACTIVE,Weblogic,Application Support,AS-Weblogic-L2,IMTS
+802,ACTIVE,Weblogic,Application Support,AS-Weblogic-L3,IMTS
+803,ACTIVE,Weblogic,Application Support,AS-Weblogic-L4,IMTS
+804,ACTIVE,Websphere,Application Support,AS-Websphere-L1,IMTS
+805,ACTIVE,Websphere,Application Support,AS-Websphere-L2,IMTS
+806,ACTIVE,Websphere,Application Support,AS-Websphere-L3,IMTS
+807,ACTIVE,Websphere,Application Support,AS-Websphere-L4,IMTS
+808,ACTIVE,Windows,Systems,SS-WIN-L1,IMTS
+809,ACTIVE,Windows,Systems,SS-WIN-L2,IMTS
+811,ACTIVE,Windows,Systems,SS-WIN-L4,IMTS
+812,ACTIVE,Business Analysis,Project Management,Domain expertise,Process & Projects
+813,ACTIVE,Business Analysis,Project Management,Generic,Process & Projects
+814,ACTIVE,Project Manager,Project Management,SAP,Process & Projects
+815,ACTIVE,Project Manager,Project Management,,Process & Projects
+816,ACTIVE,Technical Writer,Project Management,,Process & Projects
+817,ACTIVE,Manual Testing,Functional Testing,,Testing
+818,ACTIVE,Automation Testing,Specialized Testing,Appium,Testing
+819,ACTIVE,Automation Testing,Specialized Testing,AutoIT,Testing
+820,ACTIVE,Automation Testing,Specialized Testing,C#/CodedUi/VSTS,Testing
+821,ACTIVE,Automation Testing,Specialized Testing,EggPlant,Testing
+822,ACTIVE,Automation Testing,Specialized Testing,Groovy,Testing
+823,ACTIVE,Automation Testing,Specialized Testing,HP QC Admin,Testing
+824,ACTIVE,Automation Testing,Specialized Testing,HP-QTP/UFT,Testing
+810,ACTIVE,Windows,Systems,SS-WIN-L3,IMTS
+825,ACTIVE,Digital Testing,Specialized Testing,Google Analytics,Testing
+826,ACTIVE,Digital Testing,Specialized Testing,Handset Testing,Testing
+827,ACTIVE,Digital Testing,Specialized Testing,Hybris,Testing
+828,ACTIVE,Digital Testing,Specialized Testing,iStore,Testing
+829,ACTIVE,Digital Testing,Specialized Testing,Magento,Testing
+830,ACTIVE,Digital Testing,Specialized Testing,Migration Testing,Testing
+831,ACTIVE,Digital Testing,Specialized Testing,Native / Hybrid / Web (m.com) Applications,Testing
+832,ACTIVE,Digital Testing,Specialized Testing,Orchestra,Testing
+833,ACTIVE,Digital Testing,Specialized Testing,Search Engine Optimization (SEO),Testing
+834,ACTIVE,Digital Testing,Specialized Testing,SharePoint,Testing
+835,ACTIVE,Digital Testing,Specialized Testing,SiteCore,Testing
+836,ACTIVE,Digital Testing,Specialized Testing,Test Architect,Testing
+837,ACTIVE,Digital Testing,Specialized Testing,Test Management,Testing
+838,ACTIVE,Digital Testing,Specialized Testing,Usability Testing,Testing
+839,ACTIVE,Digital Testing,Specialized Testing,Web Analytics,Testing
+840,ACTIVE,Digital Testing,Specialized Testing,Web Sphere Commerce (WCS),Testing
+841,ACTIVE,Performance Testing,Specialized Testing,App Dynamics,Testing
+842,ACTIVE,Performance Testing,Specialized Testing,Application Log Analysis (Splunk etc),Testing
+843,ACTIVE,Performance Testing,Specialized Testing,Application Optimization (JVM Tuning etc),Testing
+844,ACTIVE,Performance Testing,Specialized Testing,Basic Performance Bottleneck Analysis,Testing
+845,ACTIVE,Performance Testing,Specialized Testing,CA - APM (Application Performance Management),Testing
+846,ACTIVE,Performance Testing,Specialized Testing,Capacity Planning,Testing
+847,ACTIVE,Performance Testing,Specialized Testing,Code Profiling (Client/Server),Testing
+848,ACTIVE,Performance Testing,Specialized Testing,Database Tuning and Optimization,Testing
+849,ACTIVE,Performance Testing,Specialized Testing,DynaTrace,Testing
+850,ACTIVE,Performance Testing,Specialized Testing,Garbage Collection Analysis,Testing
+851,ACTIVE,Performance Testing,Specialized Testing,HP - Load Runner,Testing
+852,ACTIVE,Performance Testing,Specialized Testing,IBM - Rational Performance Tester,Testing
+853,ACTIVE,Performance Testing,Specialized Testing,In-depth bottleneck analysis (RCA),Testing
+854,ACTIVE,Performance Testing,Specialized Testing,Jmeter,Testing
+855,ACTIVE,Performance Testing,Specialized Testing,Mindtree MobiWatch,Testing
+856,ACTIVE,Performance Testing,Specialized Testing,Mindtree Performance Execution Framework (PEF),Testing
+857,ACTIVE,Performance Testing,Specialized Testing,Mindtree Performance Watch (pWatch),Testing
+858,ACTIVE,Performance Testing,Specialized Testing,NeoLoad,Testing
+859,ACTIVE,Performance Testing,Specialized Testing,Performance Test Strategy,Testing
+860,ACTIVE,Performance Testing,Specialized Testing,Performance Testing in CI Env (Jenkins etc),Testing
+861,ACTIVE,Performance Testing,Specialized Testing,Silk Performer,Testing
+862,ACTIVE,Performance Testing,Specialized Testing,SOASTA,Testing
+863,ACTIVE,Performance Testing,Specialized Testing,Workload Modeling,Testing
+864,ACTIVE,SAP Testing,Specialized Testing,SAP APO Testing,Testing
+865,ACTIVE,SAP Testing,Specialized Testing,SAP Automation Testing,Testing
+866,ACTIVE,SAP Testing,Specialized Testing,SAP BW/BI/BCS/Hana Testing,Testing
+867,ACTIVE,SAP Testing,Specialized Testing,SAP C4C Testing,Testing
+868,ACTIVE,SAP Testing,Specialized Testing,SAP CRM/TPM Testing,Testing
+869,ACTIVE,SAP Testing,Specialized Testing,SAP EP Testing,Testing
+870,ACTIVE,SAP Testing,Specialized Testing,SAP FICO Testing,Testing
+871,ACTIVE,SAP Testing,Specialized Testing,SAP Fiori Testing,Testing
+872,ACTIVE,SAP Testing,Specialized Testing,SAP HR/HCM Testing,Testing
+873,ACTIVE,SAP Testing,Specialized Testing,SAP ISR Testing,Testing
+874,ACTIVE,SAP Testing,Specialized Testing,SAP MDM Testing,Testing
+875,ACTIVE,SAP Testing,Specialized Testing,SAP MM Testing,Testing
+876,ACTIVE,SAP Testing,Specialized Testing,SAP PLM Testing,Testing
+877,ACTIVE,SAP Testing,Specialized Testing,SAP PM Testing,Testing
+878,ACTIVE,SAP Testing,Specialized Testing,SAP PP Testing,Testing
+879,ACTIVE,SAP Testing,Specialized Testing,SAP PS Testing,Testing
+880,ACTIVE,SAP Testing,Specialized Testing,SAP QM Testing,Testing
+881,ACTIVE,SAP Testing,Specialized Testing,SAP SCM Testing,Testing
+882,ACTIVE,SAP Testing,Specialized Testing,SAP SD Testing,Testing
+883,ACTIVE,SAP Testing,Specialized Testing,SAP Security Testing,Testing
+884,ACTIVE,SAP Testing,Specialized Testing,SAP SRM Testing,Testing
+885,ACTIVE,SAP Testing,Specialized Testing,SAP Test Management,Testing
+886,ACTIVE,SAP Testing,Specialized Testing,SAP WHM Testing,Testing
+887,ACTIVE,TSM,Specialized Testing,Test Management,Testing
+888,ACTIVE,Automation Testing,Specialized Testing,HT-QC/ALM,Testing
+889,ACTIVE,Automation Testing,Specialized Testing,Java/ Javascript,Testing
+890,ACTIVE,Automation Testing,Specialized Testing,Jbehave,Testing
+891,ACTIVE,Automation Testing,Specialized Testing,Jenkins,Testing
+892,ACTIVE,Automation Testing,Specialized Testing,Jira/TFS/Bugzilla,Testing
+893,ACTIVE,Automation Testing,Specialized Testing,MTM,Testing
+894,ACTIVE,Automation Testing,Specialized Testing,Perfecto,Testing
+895,ACTIVE,Automation Testing,Specialized Testing,Python/Perl,Testing
+896,ACTIVE,Automation Testing,Specialized Testing,Ranorex,Testing
+1,ACTIVE,Build&Deploy,DevOps,Jenkins,Coding & Development
+2,ACTIVE,Build&Deploy,DevOps,Apache Maven,Coding & Development
+3,ACTIVE,Infrastructure as Code,DevOps,ARM,Coding & Development
+4,ACTIVE,Infrastructure as Code,DevOps,CloudFormation,Coding & Development
+5,ACTIVE,Infrastructure as Code,DevOps,Powershell,Coding & Development
+6,ACTIVE,Infrastructure as Code,DevOps,Puppet,Coding & Development
+7,ACTIVE,AWS,Java,Analytics Services,Coding & Development
+8,ACTIVE,AWS,Java,AWS PaaS Services,Coding & Development
+9,ACTIVE,AWS,Java,Containers and Microservices,Coding & Development
+10,ACTIVE,AWS,Java,"Content Services (media, CDN)",Coding & Development
+11,ACTIVE,AWS,Java,"Fundamental AWS Services (IaaS, VPC Storage etc)",Coding & Development
+12,ACTIVE,AWS,Java,Hybrid Integration,Coding & Development
+13,ACTIVE,AWS,Java,Identity and Access Management,Coding & Development
+922,ACTIVE,Programming/Scripting,Big data,Scala-Lagom microservices,Coding & Development
+923,ACTIVE,Programming/Scripting,Big data,Scala-Scalajs-reactjs,Coding & Development
+924,ACTIVE,Programming/Scripting,Big data,Scala-AKKA,Coding & Development
+925,ACTIVE,Programming/Scripting,Big data,Scala-KAFKA,Coding & Development
+926,ACTIVE,Web Technology,Java,React JS,Coding & Development
+927,ACTIVE,Web Technology,Java,Redux,Coding & Development
+928,ACTIVE,Web Technology,Java,Typescript,Coding & Development
+929,ACTIVE,Progressive Web App,Web Technologies,,Coding & Development
+930,ACTIVE,UI Development,Mobility,React Native,Coding & Development
+931,ACTIVE,Web Technology,Java,React Material UI,Coding & Development
+932,ACTIVE,Framework,Microsoft,Bootstrap,Coding & Development
+933,ACTIVE,BOM Design,UML,Rational S/W Architect,Coding & Development
+934,ACTIVE,Use case and Sequence Diagram,UML,Rational S/W Architect,Coding & Development
+935,ACTIVE,Container,DevOps,Docker,Coding & Development
+936,ACTIVE,Orchestration system,DevOps,Kubernetes,Coding & Development
+937,ACTIVE,Blockchain Technology,Ethereum,"Web3js, Ethereumjs, web3j and solidity",Coding & Development
+938,ACTIVE,Azure,.NET,DocumentDB Database,Coding & Development
+939,ACTIVE,Azure,.NET,Graph Database,Coding & Development
+940,ACTIVE,Azure,.NET,Gremlin Query,Coding & Development
+941,ACTIVE,Azure,.NET,Redis Cache,Coding & Development
+942,ACTIVE,Azure,.NET,Messaging Services,Coding & Development
+943,ACTIVE,IBM,EAI,IBM Watson,Coding & Development
+944,ACTIVE,Performance Testing,Specialized Testing,BlazeMeter,Testing
+945,ACTIVE,Analytics,.NET,StatsD,Coding & Development
+946,ACTIVE,Azure,.NET,Storage-Blobs,Coding & Development
+947,ACTIVE,Azure,.NET,Storage-Files,Coding & Development
+948,ACTIVE,Azure,.NET,Storage-Queues,Coding & Development
+949,ACTIVE,Azure,.NET,Storage-Tables,Coding & Development
+166,ACTIVE,SAP_Delivery Manager,SAP,,Coding & Development
+412,ACTIVE,IBM,EAI,WMQ,Coding & Development
+897,ACTIVE,Automation Testing,Specialized Testing,RFT,Testing
+898,ACTIVE,Automation Testing,Specialized Testing,Robot Framework,Testing
+899,ACTIVE,Automation Testing,Specialized Testing,Ruby/Cucumber,Testing
+900,ACTIVE,Automation Testing,Specialized Testing,SeeTest,Testing
+901,ACTIVE,Automation Testing,Specialized Testing,Selenium,Testing
+902,ACTIVE,Automation Testing,Specialized Testing,Sikuli,Testing
+903,ACTIVE,Automation Testing,Specialized Testing,SOA/SV,Testing
+904,ACTIVE,Automation Testing,Specialized Testing,SOAPUI,Testing
+905,ACTIVE,Automation Testing,Specialized Testing,Squish,Testing
+906,ACTIVE,Automation Testing,Specialized Testing,Test Complete,Testing
+907,ACTIVE,Automation Testing,Specialized Testing,Test Link,Testing
+908,ACTIVE,Automation Testing,Specialized Testing,Testing Anywhere,Testing
+909,ACTIVE,Automation Testing,Specialized Testing,TestNG,Testing
+910,ACTIVE,Automation Testing,Specialized Testing,Web Services,Testing
+911,ACTIVE,Automation Testing,Specialized Testing,ZapTest,Testing
+912,ACTIVE,Digital Testing,Specialized Testing,Accessibility Testing,Testing
+913,ACTIVE,Digital Testing,Specialized Testing,Adobe AEM,Testing
+914,ACTIVE,Digital Testing,Specialized Testing,Adobe Analytics,Testing
+915,ACTIVE,Digital Testing,Specialized Testing,ATG eCommerce,Testing
+916,ACTIVE,Digital Testing,Specialized Testing,Core Metrics,Testing
+917,ACTIVE,Digital Testing,Specialized Testing,Drupal,Testing
+918,ACTIVE,Digital Testing,Specialized Testing,Field Testing & Interoperability Testing,Testing
+919,ACTIVE,ORM,Java,iBatis,Coding & Development
+920,ACTIVE,Programming/Scripting,Big data,Scala-SBT,Coding & Development
+921,ACTIVE,Programming/Scripting,Big data,Scala-Play Framework,Coding & Development

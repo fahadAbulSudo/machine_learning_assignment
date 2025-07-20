@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "64c0bc2dd3727c5d0c88e46b"
+  },
+  "patient_id": "PAT00196",
+  "first_name": "Christopher",
+  "last_name": "Patrick",
+  "gender": "Male",
+  "date_of_birth": {
+    "$date": "1991-02-03T00:00:00.000Z"
+  },
+  "contact": {
+    "email": "hunterrodriguez@example.org",
+    "phone": "348.458.0613x730",
+    "address": {
+      "street": "2178 Hill Wells Suite 563",
+      "city": "South Katherine",
+      "state": "FL",
+      "zip_code": "77911",
+      "country": "United States"
+    }
+  },
+  "medical_history": {
+    "blood_type": "O-",
+    "allergies": [
+      "Dust",
+      "Pollen"
+    ],
+    "conditions": [
+      "Diabetes"
+    ]
+  },
+  "appointments": {
+    "appointment_id": "APT00144",
+    "doctor_name": "Dr. Moore",
+    "date": {
+      "$date": "2023-07-24T10:55:52.928Z"
+    },
+    "reason": "General Checkup"
+  },
+  "prescriptions": {
+    "prescription_id": "RX00449",
+    "medication": "Paracetamol",
+    "dosage": "500mg",
+    "instructions": "Take one tablet every 6 hours as needed for pain."
+  },
+  "insurance": {
+    "provider_name": "Schmitt-Johnson",
+    "policy_number": 68127923
+  },
+  "hospital_id": {
+    "$oid": "64c0c15fd3727c5d0c88e470"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c0bcf8d3727c5d0c88e46c"
+  },
+  "patient_id": "PAT00706",
+  "first_name": "Katrina",
+  "last_name": "Johnson",
+  "gender": "Male",
+  "date_of_birth": {
+    "$date": "1976-01-03T00:00:00.000Z"
+  },
+  "contact": {
+    "email": "robertpayne@example.com",
+    "phone": "001-509-297-0237x32299",
+    "address": {
+      "street": "1544 Daniel Expressway Apt. 584",
+      "city": "Beckymouth",
+      "state": "MI",
+      "zip_code": "34310",
+      "country": "United States"
+    }
+  },
+  "medical_history": {
+    "blood_type": "O+",
+    "allergies": [
+      "Pollen",
+      "Dust"
+    ],
+    "conditions": [
+      "Asthma"
+    ]
+  },
+  "appointments": {
+    "appointment_id": "APT00527",
+    "doctor_name": "Dr. Holmes",
+    "date": {
+      "$date": "2023-07-24T10:55:52.931Z"
+    },
+    "reason": "General Checkup"
+  },
+  "prescriptions": {
+    "prescription_id": "RX00633",
+    "medication": "Antibiotics",
+    "dosage": "200mg",
+    "instructions": "Take one tablet every 5 hours as needed for pain."
+  },
+  "insurance": {
+    "provider_name": "Blackburn PLC",
+    "policy_number": 98147157
+  },
+  "hospital_id": {
+    "$oid": "64c0c287d3727c5d0c88e471"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c0bd95d3727c5d0c88e46d"
+  },
+  "patient_id": "PAT00522",
+  "first_name": "Julie",
+  "last_name": "Crawford",
+  "gender": "Female",
+  "date_of_birth": {
+    "$date": {
+      "$numberLong": "-712972800000"
+    }
+  },
+  "contact": {
+    "email": "lamapril@example.net",
+    "phone": "6903457419",
+    "address": {
+      "street": "93149 Matthew Shore Apt. 317",
+      "city": "South Shirleystad",
+      "state": "VA",
+      "zip_code": "67829",
+      "country": "United States"
+    }
+  },
+  "medical_history": {
+    "blood_type": "AB-",
+    "allergies": [],
+    "conditions": [
+      "Cardovascular_attack",
+      "Diabetes"
+    ]
+  },
+  "appointments": {
+    "appointment_id": "APT00295",
+    "doctor_name": "Dr. Foster",
+    "date": {
+      "$date": "2023-07-24T10:55:52.935Z"
+    },
+    "reason": "General Checkup"
+  },
+  "prescriptions": {
+    "prescription_id": "RX00135",
+    "medication": "Paracetamol",
+    "dosage": "2g",
+    "instructions": "Take one tablet every 5 hours as needed for pain."
+  },
+  "insurance": {
+    "provider_name": "Edwards Ltd",
+    "policy_number": 54990129
+  },
+  "hospital_id": {
+    "$oid": "64c0c31ad3727c5d0c88e472"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c0bdf8d3727c5d0c88e46e"
+  },
+  "patient_id": "PAT00262",
+  "first_name": "Amanda",
+  "last_name": "Arias",
+  "gender": "Male",
+  "date_of_birth": {
+    "$date": "2002-06-20T00:00:00.000Z"
+  },
+  "contact": {
+    "email": "rwalsh@example.org",
+    "phone": "(393)389-1705",
+    "address": {
+      "street": "3253 Matthews Overpass",
+      "city": "South Matthew",
+      "state": "SD",
+      "zip_code": "77639",
+      "country": "United States"
+    }
+  },
+  "medical_history": {
+    "blood_type": "A-",
+    "allergies": [
+      "Pollen",
+      "Shellfish",
+      "Dust"
+    ],
+    "conditions": []
+  },
+  "appointments": {
+    "appointment_id": "APT00938",
+    "doctor_name": "Dr. Simmons",
+    "date": {
+      "$date": "2023-07-24T10:55:52.937Z"
+    },
+    "reason": "General Checkup"
+  },
+  "prescriptions": {
+    "prescription_id": "RX00130",
+    "medication": "Antibiotics",
+    "dosage": "500mg",
+    "instructions": "Take one tablet every 6 hours as needed for pain."
+  },
+  "insurance": {
+    "provider_name": "Young Ltd",
+    "policy_number": 59035967
+  },
+  "hospital_id": {
+    "$oid": "64c0c3a2d3727c5d0c88e473"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c0be95d3727c5d0c88e46f"
+  },
+  "patient_id": "PAT00751",
+  "first_name": "Jose",
+  "last_name": "Ford",
+  "gender": "Male",
+  "date_of_birth": {
+    "$date": "1982-04-27T00:00:00.000Z"
+  },
+  "contact": {
+    "email": "tracie96@example.com",
+    "phone": "+1-844-440-8350x10311",
+    "address": {
+      "street": "8009 Cooper Ways",
+      "city": "Jennyton",
+      "state": "ME",
+      "zip_code": "72547",
+      "country": "United States"
+    }
+  },
+  "medical_history": {
+    "blood_type": "B-",
+    "allergies": [
+      "Penicillin",
+      "Pollen",
+      "Dust"
+    ],
+    "conditions": [
+      "Cardovascular_attack"
+    ]
+  },
+  "appointments": {
+    "appointment_id": "APT00385",
+    "doctor_name": "Dr. Reed",
+    "date": {
+      "$date": "2023-07-24T10:55:52.919Z"
+    },
+    "reason": "General Checkup"
+  },
+  "prescriptions": {
+    "prescription_id": "RX00846",
+    "medication": "Aspirin",
+    "dosage": "500mg",
+    "instructions": "Take one tablet every 6 hours as needed for pain."
+  },
+  "insurance": {
+    "provider_name": "Brown-Williamson",
+    "policy_number": 1071414
+  },
+  "hospital_id": {
+    "$oid": "64c0c410d3727c5d0c88e474"
+  }
+}]

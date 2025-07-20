@@ -1,0 +1,9 @@
+setup.py
+conversions/__init__.py
+conversions/temperature.py
+conversions_and_maths.egg-info/PKG-INFO
+conversions_and_maths.egg-info/SOURCES.txt
+conversions_and_maths.egg-info/dependency_links.txt
+conversions_and_maths.egg-info/top_level.txt
+maths/Problems.py
+maths/__init__.py
